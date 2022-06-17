@@ -1,0 +1,143 @@
+import React, { Fragment, useState, useEffect } from 'react';
+import PropTypes from 'prop-types';
+import { withRouter, Link } from "react-router-dom";
+import { connect } from "react-redux";
+import { setAlert } from '../alerts/actions';
+import { getPlanList } from './actions';
+import TrustedCompany from "../../components/trustedcompany/index";
+import Spinner from '../../components/spinner/index';
+import store from '../../store/configureStore';
+import {getTransactionDetails,getSubscriptionDetails} from '../billing/actions'
+
+import MetaTags from 'react-meta-tags';
+
+import {apiPath} from '../../services/config';
+import axios from "axios";
+
+
+import {Helmet} from "react-helmet";
+import MediaQuery from "react-responsive";
+
+const Pricing = ({isAuthenticated, data, getPlanList, history, userStoreData, props,email, subscripiotnandtrans }) => {
+    useEffect(() => {
+        window.scrollTo(0, 0);
+        getPlanList();
+        if(isAuthenticated){
+            axios.get(`${apiPath}/client/subscription`).then((res)=>{
+                if(res.data.subscriptionStatus){
+                    switch (res.data.subscriptionStatus.planName.toLowerCase()){
+                        case "free":
+                            setButton(["CURRENT PLAN", "upgrade","upgrade","upgrade"]);
+                            break;
+                        case "starter":
+                            setButton(["downgrade", "CURRENT PLAN","upgrade","upgrade"]);
+                            break;
+                        case "popular":
+                            setButton(["downgrade", "downgrade","CURRENT PLAN","upgrade"]);
+                            break;
+                        case "business":
+                            setButton(["downgrade", "downgrade","downgrade","CURRENT PLAN"]);
+                            break;
+                    }
+
+                }
+                else{
+                    setButton(["CURRENT PLAN", "upgrade","upgrade","upgrade"]);
+                }
+            })
+        }
+
+
+    }, [getPlanList,getSubscriptionDetails]);
+    const [formData, setFormData] = useState({
+
+    });
+
+    const [indexvalue, setIndexValue]=useState(2);
+    const [buttons, setButton]=useState([]);
+
+
+    const setplan = (plan,index) => {
+            if (isAuthenticated && index !== 0) {
+                localStorage.setItem("plan", index);
+                history.push('/payment-details');
+            }
+            if (isAuthenticated && index === 0) {
+                const formData = new FormData();
+                formData.append( 'email', null );
+                formData.append( 'stripeToken', null );
+                formData.append( 'planId', data[index].accessId );
+                axios.post(apiPath + "/payment/charge", formData).then((res)=>{
+                    if( res ) {
+                        store.dispatch(getTransactionDetails("formal"));
+                        store.dispatch(getSubscriptionDetails());
+                        history.push('/purchased-free');
+                    }
+                })
+            }
+            else if (!isAuthenticated) {
+                localStorage.setItem("plan", index);
+                history.push('/register');
+            }
+
+    }
+    if(isAuthenticated){
+
+    }
+
+    return (
+
+        <Fragment>
+            <Helmet>
+                <title>GoHireNow - Pricing</title>
+                <meta property="og:title" content="GoHireNow" data-react-helmet="true"/>
+                <meta property="og:site_name" content="GoHireNow" data-react-helmet="true"/>
+                <meta property="og:image" content="images/Capture.PNG" data-react-helmet="true" />
+                <meta property="og:type" content="text" data-react-helmet="true"/>
+                <meta property="og:url" content="https://www.gohirenow.com" data-react-helmet="true"/>
+                <meta  property="og:description"
+                       content="Job posting is completely FREE. Browse through our applicants and candidates to find your next remote employee expert!"
+                       data-react-helmet="true" />
+                <meta property="description" content="Pricing"/>
+
+            </Helmet>
+            <div className={isAuthenticated ? "registration greybf" : "registration white"} id="pricing">
+                <div className="container pt-3">
+                    <div className="inner-div"  style={{padding:"50px 1px"}}>
+                        <div className="row flex-column top-text">
+                            <h2 className="text-center">Grow Your Business And Save Money!!</h2>
+                            <h5 className="text-center">Save thousands of dollars in salaries!</h5>
+                              <h5 className="text-center">100,000+ VA are waiting for you!!</h5>
+                        </div>
+
+                        <div className="row mt-4 mb-5 money-back justify-content-center">
+
+                            <div className=" responsive-check-margin-left pricing-bottom responsive-of-100-gurantee">
+                                <h2 style={{ fontWeight: "900",marginTop:"2%"}}></h2>
+                                <h4 style={{color:"black"}}></h4>
+                                <p style={{textAlign:"left",marginTop: "4%"}}></p>
+                            </div>
+                        </div>
+                        <MediaQuery minDeviceWidth="768px">
+                            <TrustedCompany />
+                        </MediaQuery>
+                    </div>
+                    <MediaQuery maxDeviceWidth="767px">
+                        <TrustedCompany />
+                    </MediaQuery>
+                </div>
+            </div></Fragment>
+    )
+};
+const mapStateToProps = ({ auth, pricing,billing }) => ({
+    isAuthenticated: auth.isAuthenticated,
+    data: pricing.planList,
+    userStoreData:auth.user,
+    email: auth.user && auth.user.email,
+    subscripiotnandtrans: billing.subscripiotnandtrans
+});
+
+export default connect(
+    mapStateToProps,
+    { setAlert, getPlanList }
+)(Pricing);

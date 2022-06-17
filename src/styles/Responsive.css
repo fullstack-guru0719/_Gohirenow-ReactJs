@@ -1,0 +1,7527 @@
+@media (min-width: 20px) and (max-width: 319px) {
+  .hire-page-header-text {
+    font-size: 22px !important;
+    font-family: lato, sans-serif !important;
+    color: rgb(255, 255, 255) !important;
+    line-height: 1.2 !important;
+    font-weight: bold !important;
+    margin-bottom: 33px;
+  }
+  .respsonsive-of-listing {
+  }
+  .respsonsive-of-listing-new {
+  }
+  .hire-page-header-inner {
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 219px;
+  }
+  .hire-page-header-inner .largetext1 {
+    margin-bottom: 20px;
+  }
+  .new-home2 div.hire-work-buttons > button {
+    padding: 9px 30px;
+  }
+  #root div.hire-want-section.new-home2 > .container {
+    padding-left: 10px !important;
+  }
+  .new-home2 {
+    background-position-x: -1040px !important;
+    background-size: auto 100%;
+  }
+  .hirepage-job {
+    flex: 40% !important;
+    width: 40% !important;
+    max-width: unset !important;
+    padding: 0 !important;
+    padding-left: 10px !important;
+  }
+  .new-home2 div.hire-work-buttons > button {
+    padding: 9px 30px;
+  }
+  #root div.hire-want-section.new-home2 > .container {
+    padding-left: 10px !important;
+  }
+  .new-home2 {
+    background-size: auto 100%;
+  }
+  .hire-page-header-inner {
+    padding-bottom: 20px;
+  }
+  .new-home2 .black-back {
+    margin-top: 120px;
+  }
+  .dashboard {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .dashboard .work-dash {
+    padding-left: 0;
+  }
+  .dashboard .main-row {
+    padding-top: 0;
+  }
+  .mobile-pt-0 {
+    padding-top: 0 !important;
+  }
+  #favorites-hire .right-side .whole-div {
+    padding: 20px 15px;
+  }
+  #favorites-hire .right-side h4 {
+    font-size: 10px;
+  }
+  .mobile-menu {
+    padding: 0 15px 0 10px;
+    display: flex !important;
+  }
+  .round-borders {
+    margin: 0 0 0 9px !important;
+    position: absolute !important;
+    height: 24px !important;
+    width: 24px !important;
+    background: #ed7b18;
+    -moz-border-radius: 70px;
+    -webkit-border-radius: 70px;
+    border-radius: 70px;
+  }
+  #menu {
+    top: 32px;
+  }
+  #menuToggle span {
+    display: flex;
+    width: 12px !important;
+    height: 2px;
+    margin-bottom: 2px;
+    position: relative;
+    background: white;
+    border-radius: 2px;
+    z-index: 1;
+    transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1),
+      background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease;
+  }
+  #menuToggle input:checked ~ span {
+    opacity: 1;
+    transform: rotate(45deg) translate(3px, 2.5px);
+    background: white;
+  }
+
+  #menuToggle input:checked ~ span:nth-last-child(2) {
+    transform: rotate(-45deg) translate(2px, 2px);
+  }
+  #favorites-hire .right-side p {
+    font-size: 9px;
+  }
+  #favorites-hire .right-side .third > div i {
+    font-size: 10px;
+  }
+  #favorites-hire .right-side .whole-div .first {
+    width: unset;
+  }
+  #favorites-hire .right-side .first .img-div {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+  }
+  #favorites-hire .top-text h2 {
+    padding-left: 15px;
+  }
+  #favorites-hire .right-side .first .content {
+    margin-left: 10px;
+  }
+  #favorites-hire .right-side .third > div {
+    margin-bottom: 6px;
+  }
+  #favorites-hire .right-side .third > div p {
+    margin: 2px 0 0 6px;
+  }
+  #company-profile .right-side .right-side-top {
+    padding: 40px 20px;
+  }
+  #company-profile table tbody td {
+    padding: 10px 10px;
+    font-size: 8px;
+  }
+  #company-profile table thead th {
+    padding: 10px 10px;
+    font-size: 10px;
+  }
+  #company-profile .top-div {
+    flex-direction: column;
+  }
+  #company-profile .top-div .button button {
+    font-size: 14px;
+    padding: 6px 22px;
+  }
+  #company-profile .right-side {
+    margin-top: 20px;
+  }
+  #company-profile .top-div h2 {
+    font-size: 26px;
+  }
+  #job-application .top-div {
+    flex-direction: column;
+    padding: 15px 5px;
+  }
+
+  #job-application .top-div .first {
+    flex-direction: column;
+  }
+
+  #job-application .top-div .first .img-div {
+    width: 50px;
+    height: 60px;
+  }
+
+  #job-application h2 {
+    font-size: 13px;
+    text-align: center;
+    margin: 12px 0;
+  }
+
+  #job-application .top-div .first h4 {
+    font-size: 10px;
+    text-align: center;
+  }
+
+  #job-application .top-div .second h3 {
+    font-size: 8px;
+  }
+
+  #job-application .text-area textarea {
+    font-size: 8px;
+    padding: 12px 10px;
+    height: 200px;
+  }
+
+  #job-application .checkbox {
+    padding: 6px 8px;
+  }
+
+  #job-application .button button {
+    padding: 6px 24px;
+    font-size: 12px;
+  }
+
+  #job-application .button {
+    margin: 0 0;
+  }
+
+  #job-application .bottom p {
+    font-size: 8px;
+  }
+
+  #job-application .bottom h4 {
+    font-size: 12px;
+    margin-bottom: 8px;
+  }
+
+  #job-application .top-div .first .content {
+    margin-left: 0;
+  }
+
+  #job-application .top-div p {
+    font-size: 8px;
+    text-align: center;
+  }
+
+  #follow-work .content {
+    padding: 10px;
+  }
+  #job-details-hire .bottom .inner-inner {
+    width: 80vw;
+    display: grid;
+    grid-template-columns: min-content min-content;
+    grid-template-rows: auto;
+    grid-row-gap: 10px;
+  }
+  #job-details-hire .bottom .inner-inner .first {
+    width: 40vw;
+  }
+  #job-details-hire .bottom .inner-inner .image-div img {
+    width: 20px;
+    height: 20px;
+    max-width: 20px !important;
+    max-height: 20px;
+  }
+  #job-details-hire .bottom .inner-inner .button {
+    grid-column: 1 / 3;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  #job-details-hire .bottom .inner .button button:last-child {
+    margin-top: 0;
+    margin-left: 20px;
+  }
+
+  #follow-work .content h2 {
+    font-size: 13px;
+    text-align: center;
+  }
+
+  #follow-work .content h4 {
+    font-size: 8px;
+    text-align: center;
+  }
+
+  #follow-work .content button {
+    font-size: 10px;
+    padding: 6px 55px;
+    align-items: center;
+  }
+
+  #follow-work .inner-div {
+    box-shadow: unset;
+    border-radius: 0;
+  }
+
+  #messages .mobile-btn-group {
+    padding-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  #messages .messages_history .income_msgs {
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  #messages .messages_history .outgoing_msgs {
+    padding-right: 0;
+    margin-right: 0;
+  }
+
+  #messages .right-side-footer {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  #follow-work .container.pt-3 {
+    padding: 0;
+  }
+
+  .modal-popup {
+    width: 100%;
+  }
+
+  #error .content {
+    padding: 0;
+  }
+
+  #error .content h2 {
+    font-size: 14px;
+  }
+
+  #error .content p {
+    font-size: 10px;
+  }
+
+  #error .content > div {
+    padding: 0;
+  }
+
+  #error .content > div img {
+    width: 100%;
+  }
+
+  #error .content button {
+    padding: 6px 14px;
+    font-size: 6px;
+  }
+
+  #client-dash .work-dash button {
+    margin-top: 20px;
+  }
+
+  #client-dash .work-dash button {
+    font-size: 10px;
+    padding: 6px 12px;
+  }
+
+  #client-dash .sub-box-1 {
+    padding: 10px 6px;
+  }
+
+  #client-dash .sub-box-1 .first-div p {
+    font-size: 8px;
+  }
+
+  #client-dash .sub-box-1 .second-div .first-inner-div p {
+    font-size: 8px;
+  }
+
+  #client-dash .sub-box-1 .third-div p {
+    font-size: 8px;
+  }
+
+  #client-dash .sub-box-1 .fourth-div p {
+    font-size: 8px;
+  }
+
+  #client-dash .sub-box-1 .third-div {
+    margin: 12px 0;
+  }
+
+  #client-dash .sub-box-1 .second-div .second-inner-div {
+    height: 6px;
+  }
+
+  #billing .heading-row {
+    padding: 50px 0 0 0;
+  }
+
+  #client-dash {
+    padding: 50px 0 100px !important;
+  }
+
+  #post-job h2 {
+    font-size: 12px;
+  }
+
+  #post-job .extra-padd {
+    padding: 0 20px;
+  }
+
+  #post-job input,
+  #post-job select {
+    padding: 6px 10px;
+    font-size: 8px;
+  }
+
+  #post-job textarea {
+    padding: 6px 10px;
+    font-size: 8px;
+    border-radius: 12px;
+    height: 70px;
+  }
+
+  #post-job .left-side > p {
+    font-size: 6px;
+    margin-left: 0;
+  }
+
+  #post-job .upload-div {
+    padding: 6px 10px;
+  }
+
+  #post-job .upload-div img {
+    width: 15%;
+  }
+
+  #post-job .button button {
+    padding: 6px 18px;
+    font-size: 8px;
+  }
+
+  #post-job .bottom-div h4 {
+    font-size: 10px;
+  }
+
+  #post-job .bottom-div p {
+    font-size: 8px;
+    line-height: 1;
+  }
+
+  #post-job .upload-div p {
+    font-size: 8px;
+  }
+
+  #client-dash.client-dasher {
+    padding-top: 15px !important;
+    padding-bottom: 10vw !important;
+  }
+
+  .post-a-job-mobile {
+    width: 120px;
+    margin-bottom: 15px;
+  }
+
+  #contact .head {
+    padding: 0 0 30px 0;
+  }
+
+  #contact .inner-pass-form > div {
+    flex-direction: column;
+  }
+
+  #contact .inner-pass-form > div > div {
+    width: 100%;
+  }
+
+  .form-error {
+    font-size: 12px;
+  }
+
+  #contact .register-work-form .inner-pass-form {
+    height: unset;
+    width: 90%;
+  }
+
+  #edit-profile .user-pic-upload {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 15px;
+  }
+
+  #edit-profile .edit-fields input,
+  #edit-profile .edit-fields select {
+    padding: 6px 8px;
+    font-size: 9px;
+  }
+
+  #edit-profile .social-links > div {
+    flex-direction: column;
+  }
+
+  #edit-profile .social-links input {
+    padding: 6px 8px;
+    font-size: 8px;
+    margin: 7px 0 0 0;
+  }
+
+  #edit-profile .right-side .skills input {
+    padding: 6px 10px;
+    font-size: 8px;
+    width: 100%;
+  }
+
+  #edit-profile .right-side .portfolio-input {
+    min-width: 80px;
+    font-size: 8px;
+    padding: 6px 10px;
+  }
+
+  #edit-profile .right-side .portfolio-input img {
+    width: 8px;
+  }
+
+  #edit-profile .right-side .skills .input-array {
+    flex-direction: column;
+    margin: 14px 0;
+  }
+
+  #edit-profile .right-side .input-array i {
+    margin-left: 0;
+  }
+
+  #edit-profile .mini-head h4 {
+    font-size: 14px;
+  }
+
+  #edit-profile .inner-div h1 {
+    font-size: 18px;
+  }
+
+  #edit-profile .member-details p {
+    font-size: 1rem;
+  }
+
+  #edit-profile .right-side-inner input {
+    padding: 6px 10px;
+    font-size: 9px;
+  }
+
+  #edit-profile .right-side-inner textarea {
+    border-radius: 15px;
+    padding: 10px 10px;
+    width: 100%;
+    font-size: 8px;
+    height: 220px;
+  }
+
+  #edit-profile .inner-div button {
+    font-size: 14px;
+    padding: 2px 26px;
+  }
+
+  #edit-profile .left-side-outer {
+    padding: 0;
+  }
+
+  #edit-profile .inner-div,
+  #company-profile .top-div {
+    padding: 5% 15px 2% 15px !important;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+  }
+
+  #edit-profile .edit-profile-banner {
+  }
+
+  #edit-profile .left-side-inner {
+    padding: 16px 5px;
+  }
+
+  #edit-profile .right-side-inner {
+    margin-top: 20px;
+  }
+
+  #edit-profile .row-padd {
+    padding: 0 0 30px 0;
+  }
+
+  #edit-profile .right-side select {
+    font-size: 12px;
+    padding: 10px 10px;
+    margin-bottom: 15px;
+  }
+
+  #edit-profile .right-side .added-skills .skill {
+    margin-top: 10px;
+  }
+
+  #edit-profile .right-side .portfolio-file {
+    margin-top: 10px;
+    margin-right: 0 !important;
+  }
+
+  #edit-profile .freelancer-fields,
+  #freelanceredi .react-tags {
+    padding-right: 15px !important;
+    padding-left: 0 !important;
+  }
+
+  #edit-profile .freelancer-fields .col-sm-3 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+
+  #edit-profile .portfolio-wrapper {
+    justify-content: space-between;
+  }
+
+  #edit-profile .row-padd .pl-0,
+  #company-profile .margin-div .pl-0 {
+    padding-left: 15px !important;
+  }
+
+  #company-profile .margin-div .pr-0 {
+    padding-right: 15px !important;
+  }
+
+  #edit-profile .user-div img.placer {
+    width: 20vw;
+    height: 20vw;
+  }
+
+  #edit-profile .mt-5 {
+    margin-top: 20px !important;
+  }
+
+  #edit-profile .right-side .portfolio-input {
+    min-width: 50vw;
+  }
+  #edit-profile .right-side .added-skills {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 2vw;
+  }
+  #edit-profile .right-side .portfolio-file {
+    width: 25vw;
+    height: 25vw;
+  }
+  .complete-profile {
+  }
+  .freelancer-profile table,
+  .freelancer-profile .right-side-top {
+    margin-left: 0 !important;
+  }
+
+  .freelancer-profile .inner-div,
+  #company-profile .top-div {
+    flex-direction: row;
+  }
+
+  .freelancer-profile .inner-div .work-profile {
+    width: unset !important;
+  }
+
+  .freelancer-profile .row-padd .pr-0 {
+    padding-right: 15px !important;
+  }
+
+  .edit-job .pl-0,
+  .edit-job .pr-0 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .edit-job .container {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+  }
+
+  #user-profile table {
+    margin: 20px 0;
+  }
+
+  #payment .register-work-form .inner-pass-form {
+    width: 80%;
+  }
+
+  #user-profile .left-side-outer {
+    padding: 0 20px 0 20px;
+  }
+
+  #user-profile .left-side-inner {
+    padding: 25px 25px;
+  }
+
+  #user-profile .numbering {
+    padding: 0 7px;
+    font-size: 14px;
+  }
+
+  #user-profile table tr td {
+    padding: 6px 4px;
+    font-size: 9px;
+  }
+
+  #user-profile button {
+    padding: 2px 8px;
+    font-size: 7px;
+  }
+
+  #user-profile .completed-div p {
+    font-size: 8px;
+  }
+
+  #user-profile .completed-div .checked {
+    padding: 0 4px;
+    font-size: 9px;
+  }
+
+  #user-profile .upload-btn-wrapper input[type="file"] {
+    font-size: 10px;
+  }
+
+  #user-profile .bottom-div > div p {
+    font-size: 9px;
+  }
+
+  #user-profile .bottom-div h2 {
+    font-size: 18px;
+  }
+
+  #user-profile .bottom-div {
+    padding: 30px 3px;
+  }
+
+  #user-profile .inner-div h1 {
+    text-align: center;
+    padding-left: 0;
+    font-size: 25px;
+  }
+
+  .registration .inner-div {
+    padding: 20px 0;
+  }
+
+  #user-profile .user-div h2 {
+    margin: 15px 0 0 0;
+    font-size: 18px;
+  }
+
+  #user-profile .profile-percent {
+    font-size: 12px;
+  }
+
+  .how-it-works-page .top-text h2 {
+    font-size: 14px;
+  }
+
+  #menuToggle {
+    top: 5px;
+    left: 0;
+  }
+
+  #menuToggle input {
+    width: 20px;
+    height: 20px;
+  }
+
+  #menuToggle span {
+    width: 20px;
+    margin-bottom: 2px;
+  }
+
+  .sign-up-btn button {
+    font-size: 8px !important;
+    padding: 8px 8px !important;
+  }
+
+  .footer-icon i {
+    font-size: 10px;
+  }
+
+  .get-a-quote {
+    font-size: 7px !important;
+    padding: 2px 12px !important;
+  }
+
+  .job-post button {
+    font-size: 5.746px;
+    padding: 4px 8px;
+  }
+
+  #billing table tr td {
+    padding: 20px 0 20px 2px;
+    font-size: 6px;
+  }
+
+  #client-dash > div.col-md-8.pl-0,
+  #client-dash > div.col-md-8.pl-0 > div:nth-child(1) > div,
+  #client-dash #favoritesworker > div {
+    padding-right: 0;
+  }
+
+  #client-dash table tr td:first-child {
+    padding-left: 10px !important;
+  }
+
+  #client-dash table th {
+    width: 20% !important;
+    min-width: 20% !important;
+    max-width: 20% !important;
+  }
+
+  #client-dash #second-table th {
+    width: 25%;
+  }
+
+  #client-dash #second-table td,
+  #company-profile .right-side table th,
+  #company-profile .right-side table td {
+    width: 25% !important;
+    min-width: 25% !important;
+    max-width: 25% !important;
+  }
+
+  #billing .heading-row h2 {
+    font-size: 24px;
+  }
+
+  #client-dash .col-md-8 p {
+    font-size: 12px;
+  }
+
+  #billing table th {
+    padding: 10px 0 10px 2px;
+    font-size: 8px;
+  }
+
+  #billing .update-button {
+    margin: 20px 0;
+  }
+
+  #billing .update-button button {
+    font-size: 14px !important;
+    width: unset;
+  }
+
+  #billing .update-button {
+    padding: 0 !important;
+    margin: 30px 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  #billing .main-row {
+    padding: 18px 0;
+  }
+
+  #billing .billing-page .billings {
+    padding-right: 5vw !important;
+    padding-left: 5vw !important;
+    text-align: center;
+  }
+  #billing .billing-page div.col-sm-12.pl-0 {
+    padding-right: 5vw !important;
+    padding-left: 5vw !important;
+  }
+
+  #billing .billing-page .first-table p {
+    padding: 0;
+  }
+
+  .billings .billing-page h2 {
+    font-size: 2rem;
+  }
+
+  .footer-anchors {
+    padding: 0;
+  }
+
+  .footer-anchors > div.col-sm-3:last-child {
+    display: none;
+  }
+
+  .footer-anchors > div.col-sm-3:first-child {
+    display: none;
+  }
+
+  .footer-anchors > div {
+    margin-top: 5px;
+  }
+
+  #purchased .card {
+    padding: 20px 10px;
+  }
+
+  #purchased .purchased-btn .browes {
+    font-size: 7.746px;
+    padding: 5px 14px;
+  }
+
+  #purchased .purchased-btn .job-post {
+    margin-top: 10px;
+    font-size: 7.746px;
+    padding: 5px 14px;
+  }
+
+  #purchased .card h1 {
+    font-size: 12px;
+    line-height: normal;
+  }
+
+  #purchased .purchased-btn {
+    flex-direction: column;
+  }
+
+  #pricing .card {
+    margin: 10px 0;
+    padding: 25px 3px;
+  }
+
+  #pricing .card-bot tr td {
+    padding: 4px 3px;
+    font-size: 8px;
+  }
+
+  #pricing .card-head h4 {
+    font-size: 12px;
+  }
+
+  #pricing .card-head h4 span {
+    font-size: 14px;
+  }
+
+  #pricing .card-bot,
+  #pricing .card.notloggin {
+    height: unset;
+  }
+  .pricing-cards {
+    padding-top: 10px !important;
+    display: grid;
+    grid-template-rows: repeat(4, auto);
+    grid-row-gap: 22px;
+  }
+
+  #pricing .card.notloggin {
+    position: relative;
+    left: -15%;
+    width: 130%;
+    margin: 0;
+    padding: 40px 3px;
+    top: 0;
+  }
+  #pricing .card {
+    margin: 0;
+  }
+  #pricing .card-head h1 {
+    font-size: 11px;
+  }
+
+  #pricing .card:hover .card-bot {
+    height: 250px;
+  }
+
+  #pricing .pricing-bottom p {
+    font-size: 8px;
+  }
+
+  #pricing .card-btn button {
+    width: 50%;
+    padding: 15px 9vw;
+    font-size: 15px;
+    font-family: Myriad Pro;
+    font-weight: 700;
+  }
+  .registration .inner-div h2 {
+    font-size: 14px;
+  }
+
+  .registration .register-work-form .hire-work-buttons a {
+    font-size: 12px;
+  }
+
+  .registration .hire-work-buttons a {
+    font-size: 10px;
+    padding: 5px 8px;
+  }
+
+  .registration .hire-work-buttons a:nth-child(2) {
+    margin-left: unset;
+    margin-top: 4px;
+  }
+
+  .registration .hire-work-buttons {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .voted-div-outer {
+    display: none;
+  }
+
+  .hire-want-section {
+    background-position: 63% 100%;
+    margin-bottom: calc(10vw - 127px);
+  }
+
+  .second-two .hire-work-buttons button {
+    font-size: 3.8vw;
+    border-radius: 35px;
+    padding: 7px 3px;
+  }
+
+  .second-two .largetext h2 {
+    font-size: 25px;
+  }
+
+  .oval-paragraph {
+    width: 80%;
+  }
+
+  .oval-paragraph p {
+    margin: 20px 0;
+    font-size: 7px;
+  }
+
+  .trust-comp > p {
+    font-size: 6px;
+  }
+
+  .post-a-job {
+    font-size: 8px !important;
+    padding: 3px 13px !important;
+  }
+
+  .post-job-containers {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .footer-anchors > div p,
+  .footer-anchors > div a {
+    font-size: 18px;
+  }
+
+  .save-a-lot {
+    flex-wrap: wrap;
+  }
+
+  .desktop-menu {
+    display: none !important;
+  }
+
+  .dropdown-toggle::after {
+    display: none !important;
+  }
+
+  .dropdown-toggle i {
+    font-size: 24px;
+  }
+
+  .second-two .hire-work-buttons button:nth-child(2) {
+    margin-left: 0;
+    margin-top: 5%;
+  }
+  .registration .hire-work-buttons a.inactive,
+  .registration .hire-work-buttons a.active {
+    margin-left: 0;
+  }
+  .registration .mobile-pb-0 {
+    padding-bottom: 0 !important;
+  }
+  .second-two .hire-work-buttons {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .black-circle-adj {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .black-back .oval {
+    width: 36px;
+    height: 36px;
+    margin: 6px 6px;
+  }
+
+  .black-back {
+    padding: 45px 4px;
+  }
+
+  .black-back-header {
+    padding: 155px 4px 45px !important;
+  }
+
+  .what-are-you-looking .top-text h2 {
+    font-size: 12px;
+  }
+
+  .what-are-you-looking .top-text p {
+    font-size: 9px;
+  }
+
+  .small-ovals {
+    width: 80px;
+    height: 80px;
+  }
+
+  .what-are-you-looking .single-oval p {
+    font-size: 12px;
+  }
+
+  .black-ovals {
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+  }
+
+  .white-oval {
+    width: 40px;
+    height: 40px;
+    margin: 8px 5px;
+  }
+
+  .orange-oval {
+    width: 40px;
+    height: 40px;
+    margin: 7px;
+  }
+
+  .save-a-lot {
+    grid-template-rows: repeat(4, auto);
+    grid-template-columns: auto;
+  }
+
+  .save-a-lot .header h1 {
+    font-size: 9px;
+    padding: 0;
+  }
+
+  .save-a-lot .author h1 {
+    font-size: 8px;
+  }
+
+  .save-a-lot .para p {
+    font-size: 8px;
+  }
+
+  .footer {
+    padding-top: 20px;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .footer .footer-mid {
+    padding: 40px 0;
+  }
+
+  .footer-bottom {
+    padding: 0 0 40px 0;
+  }
+
+  .footer-bottom .cont-center p {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .footer-icon {
+    width: 75%;
+  }
+
+  .black-back h2 {
+    margin-bottom: 13px;
+    font-size: 9px;
+    text-align: center;
+  }
+
+  .mobile-menu .dropdown-menu {
+    display: block;
+
+    padding: 15px;
+  }
+
+  /*.second-two .largetext h2 {*/
+  /*font-size: 40px;*/
+  /*}*/
+  .quotes h2 {
+    text-align: center;
+    font-size: 8px;
+  }
+
+  .ovals {
+    justify-content: flex-start;
+    padding: 0 25px;
+  }
+
+  .post-a-job-btn button {
+    font-size: 8px;
+    padding: 8px 14px;
+  }
+
+  .info-div {
+    padding: 10px;
+    height: 300px;
+  }
+
+  .info-div .img-div {
+    justify-content: center;
+  }
+
+  .info-div .img-div img {
+    width: 30%;
+  }
+
+  .info-div .content-div h1 {
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .info-div .content-div p {
+    text-align: center;
+    font-size: 8px;
+  }
+
+  .info-div .btn-div {
+    justify-content: center;
+  }
+
+  .pricing .price-box h4 {
+    font-size: 9px;
+  }
+
+  .pricing .price-box p {
+    font-size: 8px;
+  }
+
+  .pricing .price-box span {
+    font-size: 8px;
+  }
+
+  .how-it-works .hire-work-buttons button {
+    font-size: 8px;
+    padding: 6px 7px;
+    margin: 6px 0;
+  }
+
+  .how-it-works .hire-work-buttons button:nth-child(2) {
+    margin-left: 5%;
+  }
+
+  .how-it-works .inner-div {
+    padding: 0;
+  }
+
+  .how-it-works .hire-work-buttons {
+    margin: 20px 0 6px 0;
+    flex-wrap: wrap;
+  }
+
+  .how-it-works .cont-div h2 {
+    font-size: 10px;
+  }
+
+  .how-it-works .cont-div p {
+    font-size: 8px;
+  }
+
+  .register-form .inner-form {
+    width: 100%;
+  }
+
+  .sign-up-btn {
+    width: 100%;
+  }
+
+  .register-work-form .inner-form {
+    width: 100%;
+  }
+
+  .registration .register-work-form .hire-work-buttons button {
+    font-size: 13px;
+  }
+
+  .register-work-form .inner-pass-form {
+    width: 100%;
+  }
+
+  #payment .payment-images {
+    padding: 0 10px 30px 10px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  #payment .inner-div {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+  }
+
+  #payment > div.container.pt-5.pb-5 .mr-auto.ml-auto {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  #payment .payment-images > img {
+    height: 100%;
+    width: 10vw;
+    min-height: 100%;
+    min-width: 10vw;
+  }
+  #payment div.container.payment-form div.panel-body.mt-5 div {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: unset;
+  }
+  #payment > div.container.pt-5.pb-5 {
+    padding-bottom: 0 !important;
+  }
+
+  .why-gohirenow .inner-div {
+    box-shadow: none;
+    border-radius: unset;
+    padding: 7% 15px 0 0;
+  }
+
+  .why-gohirenow .inner-div > .row > .col-6 {
+    padding: 0;
+  }
+
+  .gohire-why h2 {
+    font-size: 10px;
+  }
+
+  .black-oval {
+    width: 40px;
+    height: 40px;
+    margin-right: 0;
+  }
+
+  .trusted-company {
+    width: 120px;
+    height: 100%;
+    padding: 3% 4% 3% 4%;
+  }
+
+  .why-gohirenow > .container {
+    padding: 0;
+    padding-top: 0 !important;
+  }
+  .how-it-works .works-content .sota {
+    margin: 50px 0 0 0;
+  }
+  .how-it-works .works-content .sota:nth-child(even) h2 {
+    text-align: left;
+  }
+
+  .how-it-works .works-content .sota:nth-child(even) p {
+    text-align: left;
+  }
+
+  .how-it-works .cont-div {
+    padding: 20px 0;
+  }
+
+  #pricing .cards-row {
+    padding: 50px 0 0 0;
+  }
+  #pricing .pricing-bottom {
+    padding: 20px 0;
+  }
+  .how-it-works .works-content .sota {
+    margin: 0;
+  }
+  .how-it-works .pic-div {
+    height: 170px;
+  }
+  .mobile-sent-password {
+    width: 90% !important;
+    font-weight: unset;
+  }
+  .received-contact-req {
+    font-size: 1rem;
+  }
+  .contact-form-fw {
+    margin: 0 -9vw -9vw -9vw;
+  }
+  .mobile-mb-0 {
+    margin-bottom: 0;
+  }
+
+  #account-setting .top-text {
+    padding: 5% 0 2% 0 !important;
+    text-align: center;
+  }
+
+  #freelanceredi > div.row.options-row.freelancer-fields {
+    padding-left: 15px;
+    padding-right: 15px;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  #edit-profile .right-side select {
+    border: 1px solid rgb(225, 225, 225);
+    border-radius: 35px;
+    padding: 12px 25px;
+    width: 100%;
+    outline: none;
+  }
+  #freelanceredi > div.row.options-row.freelancer-fields > select:nth-child(1) {
+    width: 100%;
+  }
+
+  #account-setting .custom-padd {
+    padding: 0 30px 80px 30px;
+  }
+
+  #account-setting .custom-padd:nth-child(2) {
+    padding: 0 30px 60px 30px;
+  }
+
+  .mobile-hide {
+    visibility: hidden;
+    height: 0 !important;
+  }
+
+  #messages .container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  #messages .right-side-inner .message_head {
+    flex-direction: column;
+  }
+
+  #messages .col-sm-12,
+  #messages .pr-0 {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .paginations li {
+    margin: 0 1px;
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 479px) {
+  .respsonsive-of-listing {
+    flex-direction: column;
+  }
+  .respsonsive-of-listing-new {
+    width: 99% !important;
+    max-width: 99%;
+  }
+  .responsive-check-margin-left {
+    margin-left: 0;
+  }
+
+  .new-home2 .hire-page-header-text {
+    font-size: 18px !important;
+    font-family: lato, sans-serif !important;
+    color: rgb(255, 255, 255) !important;
+    line-height: 1 !important;
+    font-weight: bold !important;
+    margin-bottom: 13px;
+  }
+
+  .new-home2 .hire-page-header-inner {
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 219px;
+    max-width: 150px;
+    margin: 5px;
+  }
+  .client-title-search {
+    max-width: 150px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .new-home2 .hire-page-header-inner .largetext1 {
+    margin-bottom: 10px;
+  }
+  .new-home2 div.hire-work-buttons button {
+    padding: 9px 15px;
+    width: 100%;
+  }
+  #root div.hire-want-section.new-home2 > .container {
+    padding-left: 10px !important;
+  }
+  .new-home2 {
+    background-position-x: -1040px !important;
+    background-size: auto 100%;
+  }
+  .new-home2 .hire-page-header-inner {
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  .hirepage-job {
+    flex: 40%;
+    width: 40%;
+    max-width: unset;
+    padding: 0;
+    padding-left: 10px;
+  }
+  .hirepage-container .hirepage-job {
+    flex: 100% !important;
+    width: 100% !important;
+    max-width: unset !important;
+    padding: 0 !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex {
+    height: unset !important;
+    padding: 1.5rem 5px !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex img {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex a.mt-2.mb-2.text-center {
+    font-size: 23px !important;
+  }
+
+  .dashboard {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .dashboard .work-dash {
+    padding-left: 0;
+    padding-right: 0 !important;
+  }
+
+  .mobile-pt-0 {
+    padding-top: 0 !important;
+  }
+  #edit-profile .inner-div {
+    flex-direction: column;
+  }
+  .mobile-menu {
+    padding: 0 15px 0 10px;
+    display: flex !important;
+  }
+  .round-borders {
+    margin: 0 0 0 9px !important;
+    position: absolute !important;
+    height: 24px !important;
+    width: 24px !important;
+    background: #ed7b18;
+    -moz-border-radius: 70px;
+    -webkit-border-radius: 70px;
+    border-radius: 70px;
+  }
+
+  .how-it-works .works-content .sota {
+    margin: 0;
+  }
+  .how-it-works .pic-div {
+    height: 170px;
+  }
+  #menu {
+    top: 33px;
+  }
+
+  #menuToggle span {
+    display: flex;
+    width: 12px !important;
+    height: 2px;
+    margin-bottom: 2px;
+    position: relative;
+    background: white;
+    border-radius: 2px;
+    z-index: 1;
+    transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1),
+      background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease;
+  }
+  #menuToggle input:checked ~ span {
+    opacity: 1;
+    transform: rotate(45deg) translate(3px, 2.5px);
+    background: white;
+  }
+
+  #menuToggle input:checked ~ span:nth-last-child(2) {
+    transform: rotate(-45deg) translate(2px, 2px);
+  }
+
+  .a-j-p-details-row {
+    font-size: 0.8rem;
+  }
+  #edit-profile .inner-div .work-profile {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+  }
+  #edit-profile .inner-div .work-profile .web-line {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-column-gap: 2vw;
+  }
+  #edit-profile table tbody td {
+    padding: 20px 6px;
+    font-size: 13px;
+  }
+  #edit-profile table thead th {
+    padding: 6px 2px;
+    font-size: 13px;
+  }
+  #edit-profile .right-side .right-side-top {
+    margin-top: 10px;
+  }
+  #edit-profile .right-side .portfolio-input {
+    min-width: 50vw;
+  }
+  #messages .col-sm-12,
+  #messages .pr-0 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+  #edit-profile .right-side .added-portfolio {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 2vw;
+  }
+  #edit-profile .right-side .portfolio-file {
+    height: 25vw;
+    width: 25vw;
+  }
+  .edit-job .pl-0,
+  .edit-job .pr-0 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  .edit-job .container {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+  }
+  #search .right-side .whole-div {
+    padding: 25px 15px;
+  }
+  #search .right-side h4 {
+    font-size: 12px;
+  }
+  #search .right-side p {
+    font-size: 12px;
+  }
+  #search .right-side .first .img-div {
+    width: 60px;
+    height: 60px;
+  }
+  #search .right-side .first .img-div img {
+    margin-left: 20px;
+    width: 60px;
+  }
+  #search .left-side .para {
+    font-size: 12px;
+  }
+  #search .left-side {
+    padding: 25px 20px;
+  }
+  #search .right-side .top h2 {
+    font-size: 16px;
+  }
+  #search .right-side .top {
+    padding: 25px 15px;
+  }
+  #search .right-side {
+    margin-top: 20px;
+  }
+  #search .row .pr-0 {
+    padding-right: 15px !important;
+  }
+  #favorites-hire .right-side .whole-div {
+    padding: 20px 15px;
+  }
+  #favorites-hire .right-side h4 {
+    font-size: 10px;
+  }
+  #favorites-hire .right-side p {
+    font-size: 9px;
+  }
+  #favorites-hire .right-side .third > div i {
+    font-size: 10px;
+  }
+  #favorites-hire .right-side .whole-div .first {
+    width: unset;
+  }
+  #favorites-hire .right-side .first .img-div {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+  }
+  #favorites-hire .right-side .first .content {
+    margin-left: 10px;
+  }
+  #favorites-hire .right-side .third > div {
+    margin-bottom: 6px;
+  }
+  #favorites-hire .right-side .third > div p {
+    margin: 2px 0 0 6px;
+  }
+  #company-profile .right-side .right-side-top {
+    padding: 40px 20px;
+  }
+  #company-profile table tbody td {
+    padding: 10px 10px;
+    font-size: 8px;
+  }
+  #company-profile table thead th {
+    padding: 10px 10px;
+    font-size: 10px;
+  }
+  #company-profile .top-div {
+    flex-direction: column;
+  }
+  #company-profile .top-div .button button {
+    font-size: 14px;
+    padding: 6px 22px;
+  }
+  .second-two .largetext h2 {
+    width: 110%;
+  }
+  #company-profile .right-side {
+    margin-top: 20px;
+  }
+  #company-profile .top-div h2 {
+    font-size: 26px;
+  }
+  #job-application h2 {
+    font-size: 28px;
+    margin: 25px 0;
+  }
+  #contact .head {
+    padding: 30px 0 30px 0;
+  }
+  #job-application .top-div .first .img-div {
+    width: 65px;
+    height: 65px;
+  }
+
+  #job-application .top-div .second h3 {
+    font-size: 14px;
+  }
+
+  #job-application .top-div p {
+    margin-bottom: 8px;
+    font-size: 10px;
+  }
+
+  #job-application .text-area textarea {
+    font-size: 12px;
+    padding: 18px 13px;
+    height: 260px;
+  }
+
+  #job-application .button button {
+    font-size: 14px;
+    padding: 6px 50px;
+  }
+
+  #job-application .top-div {
+    padding: 8px 8px;
+  }
+
+  #job-application .top-div .first h4 {
+    font-size: 13px;
+  }
+
+  #job-details-work .work-table thead th {
+    padding: 8px 8px;
+    font-size: 12px;
+  }
+
+  #job-details-work .work-table tbody td {
+    padding: 20px 8px;
+    font-family: "Lato", sans-serif;
+    font-size: 10px;
+  }
+  #job-details-work > div.row.w-100 > div:nth-child(1) {
+    width: 100% !important;
+  }
+  .freelancer-save-bottom-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .freelancer-edit-save-bottom {
+    color: white;
+    background-color: #ed7b18;
+    padding: 6px 40px;
+    border-radius: 35px;
+    font-weight: bold;
+  }
+  #job-details-work > div.row.w-100 {
+    flex-direction: column;
+  }
+
+  #job-details-hire .container {
+    padding: 0 15px;
+  }
+
+  #job-details-hire .bottom .inner-inner h4 {
+    font-size: 14px;
+  }
+
+  #job-details-hire .bottom .inner-inner p {
+    font-size: 14px;
+  }
+
+  #job-details-hire .bottom .inner .button button {
+    font-size: 13px;
+    padding: 4px 10px;
+  }
+
+  #job-details-hire .bottom .inner .button button:last-child {
+    padding: 4px 12px;
+  }
+
+  #job-details .heading {
+    font-size: 14px;
+  }
+
+  #job-details .third-div > div {
+    flex-wrap: wrap;
+  }
+
+  #job-details-hire .bottom .inner {
+    padding: 20px 10px;
+  }
+
+  #job-details > div.row {
+    padding: 25px 0;
+  }
+
+  #job-details .second-div > div {
+    flex-wrap: wrap;
+  }
+  #applicants {
+    display: grid;
+    grid-row-gap: 5px;
+    border: none !important;
+    background: unset !important;
+  }
+  #applicants .col-md-12.p-0 {
+    display: grid;
+    grid-row-gap: 5px;
+    border: 1px solid rgb(225, 225, 225);
+    border-bottom: none !important;
+    border-top: none !important;
+    background: white !important;
+  }
+  #applicants > div:nth-child(1) > div.inner {
+    border-top: 1px solid rgb(225, 225, 225) !important;
+  }
+  #applicants .bottom-down {
+    border-bottom: 1px solid rgb(225, 225, 225) !important;
+  }
+  #job-details-hire .bottom .inner-inner {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+    grid-row-gap: 10px;
+  }
+  #job-details-hire .bottom .inner-inner .button {
+    grid-column: 1 / 3;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  #job-details-hire .bottom .inner .button button:last-child {
+    margin-top: 0;
+    margin-left: 20px;
+  }
+  #job-details-hire .bottom .inner-inner .image-div {
+    width: 55px;
+    height: 55px;
+    min-width: 55px;
+    margin-right: 10px;
+  }
+
+  #job-details-hire .job-details-head {
+    display: grid;
+    grid-template-rows: auto auto;
+  }
+
+  #job-details-hire .buttons {
+    width: 100% !important;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-column-gap: 5vw;
+  }
+
+  #job-details-hire .buttons .button {
+    padding: 7px 6vw !important;
+  }
+
+  #job-details-hire .job-details-skills {
+    width: unset !important;
+  }
+
+  #follow-work .content {
+    padding: 30px;
+  }
+
+  #follow-work .content h2 {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .job-post button {
+    font-size: 10px;
+    font-family: "Myriad Pro";
+    padding: 6px 16px;
+  }
+
+  #error .content h2 {
+    font-size: 28px;
+  }
+
+  #error .content p {
+    font-size: 24px;
+  }
+
+  #error .content > div {
+    padding: 0;
+  }
+
+  #error .content > div img {
+    width: 100%;
+  }
+
+  #error .content button {
+    padding: 6px 50px;
+    font-size: 10px;
+  }
+
+  #client-dash .work-dash button {
+    margin-top: 20px;
+  }
+
+  #client-dash > div.col-md-8.pl-0,
+  #client-dash > div.col-md-8.pl-0 > div:nth-child(1) > div,
+  #client-dash #favoritesworker > div {
+    padding-right: 0;
+  }
+
+  #client-dash table tr td:first-child {
+    padding-left: 10px !important;
+  }
+
+  #client-dash table th {
+    width: 20% !important;
+    min-width: 20% !important;
+    max-width: 20% !important;
+  }
+
+  #client-dash table th.job-title-th {
+    width: 22% !important;
+    min-width: 22% !important;
+    max-width: 22% !important;
+  }
+
+  #client-dash #second-table th {
+    width: 25%;
+  }
+
+  #company-profile .right-side table .no-jobs {
+    font-size: 15px;
+  }
+
+  #client-dash #second-table td,
+  #company-profile .right-side table th,
+  #company-profile .right-side table td {
+    width: 25% !important;
+    min-width: 25% !important;
+    max-width: 25% !important;
+  }
+
+  #billing .heading-row {
+    padding: 50px 0 0 0;
+  }
+
+  #client-dash {
+    padding: 20px 0 20px !important;
+  }
+
+  #post-job .extra-padd {
+    padding: 0 15px;
+  }
+
+  #post-job .button {
+    display: flex;
+    justify-content: center;
+  }
+
+  #post-job .left-side > p {
+    font-size: 16.014px;
+  }
+
+  #client-dash.client-dasher {
+    padding-top: 15px !important;
+    padding-bottom: 10vw !important;
+  }
+
+  .post-a-job-mobile {
+    width: 120px;
+    margin-bottom: 15px;
+  }
+
+  .post-job-containers {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  #account-setting .upload-div {
+    min-height: 35px;
+    width: 100%;
+    padding: 0 0 0 10px;
+  }
+
+  #account-setting .upload-div img {
+    width: 4%;
+  }
+
+  #account-setting .upload-div button {
+    font-size: 8px;
+  }
+
+  #account-setting .upload-div p {
+    font-size: 10px;
+  }
+
+  #account-setting .top-text {
+    padding: 5% 0 2% 0 !important;
+    text-align: center;
+  }
+
+  #account-setting .custom-padd {
+    padding: 0 30px 30px 30px;
+  }
+
+  #account-setting .custom-padd:nth-child(2) {
+    padding: 0 30px 0 30px;
+  }
+  #account-setting .upload-div button {
+    font-size: 14px;
+  }
+  #account-setting .upload-div img {
+    width: 3.5%;
+  }
+
+  #account-setting .upload-div p {
+    font-size: 15px;
+  }
+
+  #account-setting .right-side .profile-image {
+    width: 120px;
+    height: 120px;
+  }
+
+  #account-setting .right-side .profile-image img {
+    width: 120px;
+    height: 120px;
+  }
+
+  #messages .messages_history .reciever-img,
+  #messages .messages_history .sender-img img {
+    min-width: 35px;
+  }
+
+  #messages .mobile-btn-group {
+    padding-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  #messages .messages_history .income_msgs {
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  #messages .messages_history .outgoing_msgs {
+    padding-right: 0;
+    margin-right: 0;
+  }
+
+  #contact .inner-pass-form > div {
+    flex-direction: column;
+  }
+
+  .header-mobile-button-wrapper {
+    display: flex;
+    justify-content: flex-end;
+    width: 100% !important;
+  }
+
+  #contact .inner-pass-form > div > div {
+    width: 100%;
+  }
+
+  .form-error {
+    font-size: 12px;
+  }
+
+  #edit-profile .inner-div h1 {
+    font-size: 1.8rem;
+  }
+
+  #edit-profile .member-details p {
+    font-size: 1rem;
+  }
+
+  #edit-profile .inner-div button {
+    font-size: 14px;
+    padding: 6px 5vw;
+  }
+
+  #edit-profile .inner-div .work-profile .button {
+    margin-left: 0;
+  }
+
+  #edit-profile .left-side-outer {
+    padding: 0;
+  }
+
+  #edit-profile .inner-div,
+  #company-profile .top-div {
+    padding: 5% 15px 2% 15px !important;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+  }
+
+  #edit-profile .left-side-inner {
+    padding: 40px 20px;
+  }
+
+  #edit-profile .right-side-inner {
+    margin-top: 20px;
+  }
+
+  #edit-profile .row-padd {
+    /* padding-bottom: 100px; */
+    padding: 0 0 20px 0;
+  }
+
+  #edit-profile.worker-profile div.col-md-8.pr-0.pl-0.right-side {
+    margin-right: 15px;
+  }
+
+  .modal-popup {
+    width: 100%;
+    height: 80vh;
+  }
+
+  .freelancer-profile table,
+  .freelancer-profile .right-side-top {
+    margin-left: 0 !important;
+  }
+
+  .freelancer-profile .inner-div,
+  #company-profile .top-div {
+    flex-direction: row;
+  }
+
+  .freelancer-profile .inner-div .work-profile {
+    width: unset !important;
+  }
+
+  .freelancer-profile .row-padd .pr-0,
+  #freelanceredi > div.react-tags {
+    padding-right: 15px !important;
+  }
+
+  #edit-profile.freelancer-profile
+    > div
+    > div:nth-child(2)
+    > div.col-md-8.pr-0.pl-0.right-side
+    > div.row.skills.ml-15
+    > div,
+  #edit-profile.freelancer-profile
+    > div
+    > div:nth-child(2)
+    > div.col-md-8.pr-0.pl-0.right-side
+    > div:nth-child(4)
+    > div {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  #edit-profile .row-padd .pl-0,
+  #company-profile .margin-div .pl-0,
+  #favorites-hire .pl-0 {
+    padding-left: 15px !important;
+  }
+
+  #edit-profile .right-side .ml-15 {
+    margin-left: 0 !important;
+  }
+
+  #edit-profile table {
+    width: 100%;
+  }
+
+  #company-profile .margin-div .pr-0 {
+    padding-right: 15px !important;
+  }
+
+  #edit-profile .right-side select {
+    font-size: 14px;
+    padding: 10px 10px;
+    margin-bottom: 15px;
+  }
+
+  #edit-profile .right-side .added-skills .skill {
+    margin-top: 10px;
+  }
+
+  #edit-profile .right-side .portfolio-file {
+    margin-top: 10px;
+    margin-right: 0 !important;
+  }
+
+  #freelanceredi .react-tags {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+
+  #edit-profile .freelancer-fields {
+    padding-left: 0 !important;
+  }
+
+  #edit-profile .freelancer-fields .col-sm-3 {
+    padding-left: 0 !important;
+  }
+
+  #edit-profile .freelancer-fields.col-sm-12 {
+    padding-right: 15px !important;
+    padding-left: 0 !important;
+  }
+
+  .client-edit-profile .right-side-inner,
+  #favorites-hire .right-side {
+    padding-right: 15px !important;
+  }
+
+  #favorites-hire {
+    padding-bottom: 10px;
+  }
+
+  #edit-profile .portfolio-wrapper {
+    justify-content: space-between;
+  }
+
+  #company-profile .left-side-inner .member-details p {
+    font-size: 1rem;
+  }
+
+  #user-profile table {
+    margin: 40px 0;
+  }
+
+  #payment .register-work-form .inner-pass-form {
+    width: 100%;
+  }
+
+  #payment .register-work-form > div {
+    width: 100% !important;
+  }
+  #freelanceredi > div.row.options-row.freelancer-fields {
+    padding-left: 15px;
+    padding-right: 15px;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  #edit-profile .right-side select {
+    border: 1px solid rgb(225, 225, 225);
+    border-radius: 35px;
+    padding: 12px 25px;
+    width: 100%;
+    outline: none;
+  }
+  #freelanceredi > div.row.options-row.freelancer-fields > select:nth-child(1) {
+    width: 100%;
+  }
+  #payment .payment-images {
+    padding: 30px 10px 30px 10px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  #payment .inner-div {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+  }
+
+  #payment > div.container.pt-5.pb-5 .mr-auto.ml-auto {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  #payment .payment-images > span {
+    height: 10vw;
+    width: 10vw;
+    min-height: 10vw;
+    min-width: 10vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 10vw auto;
+  }
+
+  .new-visa-img {
+    background-image: url("../assets/new-visa.png");
+  }
+  .master-img {
+    background-image: url("../assets/master.png");
+  }
+  .axp-img {
+    background-image: url("../assets/axp.png");
+  }
+  .discover-img {
+    background-image: url("../assets/discover.png");
+  }
+  .mcafee-img {
+    background-image: url("../assets/mcafee.png");
+  }
+  .norton-img {
+    background-image: url("../assets/norton.png");
+  }
+
+  #payment
+    div.container.payment-form
+    div.panel-body.mt-5
+    div
+    .row.d-flex.justify-content-between {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+  }
+  #payment div.container.payment-form div.panel-body.mt-5 div {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: unset;
+  }
+  #payment > div.container.pt-5.pb-5 {
+    padding-bottom: 0 !important;
+  }
+  #user-profile .left-side-outer {
+    padding: 0 80px 0 80px;
+  }
+
+  #user-profile .left-side-inner {
+    padding: 25px 25px;
+  }
+
+  #user-profile .numbering {
+    padding: 0 10px;
+    font-size: 22px;
+  }
+
+  #user-profile table tr td {
+    padding: 6px 8px;
+    font-size: 12px;
+  }
+  .complete-profile table > tbody > tr > td:nth-child(2),
+  .complete-profile .profile-percent,
+  #user-profile div.orng > a > button {
+    font-size: 13px !important;
+  }
+
+  .complete-profile p {
+    font-size: 13px !important;
+  }
+
+  #user-profile button {
+    padding: 2px 16px;
+    font-size: 10px;
+  }
+
+  #user-profile .upload-btn-wrapper input[type="file"] {
+    font-size: 10px;
+  }
+
+  #user-profile .bottom-div > div p {
+    font-size: 12px;
+  }
+
+  #user-profile .bottom-div h2 {
+    font-size: 18px;
+  }
+
+  #user-profile .bottom-div {
+    padding: 30px 8px;
+  }
+
+  #user-profile .inner-div h1 {
+    text-align: start;
+    padding-left: 0;
+  }
+
+  .complete-profile .inner-div h1 {
+    padding-left: 15px !important;
+  }
+
+  #user-profile .user-div h2 {
+    margin: 15px 0 0 0;
+    font-size: 18px;
+  }
+
+  #user-profile .profile-percent {
+    font-size: 12px;
+  }
+
+  .complete-profile table tr td:last-child {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  .complete-profile .upload-btn-wrapper {
+    color: white;
+    background-color: #ed7b18;
+    border-radius: 35px;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 6px 5vw;
+  }
+
+  .complete-profile .bonus-div {
+    flex-direction: column;
+  }
+
+  .complete-profile .upload-btn-wrapper {
+    margin-top: 20px;
+    padding-right: 2vw;
+    padding-left: 2vw;
+  }
+
+  .complete-profile
+    > div
+    > div:nth-child(2)
+    > div.col-md-8
+    > div
+    > div
+    > div
+    > div
+    > p {
+    padding-bottom: 10px;
+  }
+
+  .complete-profile-table tr {
+    display: grid;
+    grid-template-columns: min-content auto max-content;
+    padding-bottom: 20px;
+  }
+
+  .complete-profile-table tr .completed-div {
+    align-items: center;
+  }
+  .complete-profile
+    > div
+    > div:nth-child(2)
+    > div.col-md-8
+    > div
+    > div
+    > table
+    > tbody
+    > tr
+    > td {
+    display: flex;
+    align-items: center;
+  }
+  .complete-profile
+    > div
+    > div:nth-child(2)
+    > div.col-md-8
+    > div
+    > div
+    > table
+    > tbody
+    > tr
+    .numbering {
+    width: 34px;
+    height: 34px;
+  }
+  .complete-profile .upload-btn-wrapper {
+    margin-top: 0;
+  }
+  .complete-profile > div > div:nth-child(2) .col-sm-12 {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .complete-profile#user-profile > div > div:nth-child(2) > div.col-md-4.pl-0 {
+    padding-left: 15px !important;
+  }
+
+  .complete-profile-bottom-div div {
+    display: grid !important;
+    grid-template-columns: auto max-content;
+    align-items: center;
+  }
+
+  .complete-profile-bottom-div div p {
+    padding-bottom: 0 !important;
+  }
+
+  .complete-profile-bottom-div .bonus-div {
+    margin-top: 0 !important;
+  }
+
+  .complete-profile-bottom-div p {
+    width: 100%;
+  }
+
+  #client-dash
+    > div.col-md-8.pl-0
+    > div:nth-child(1)
+    > div
+    > div.second-table
+    table {
+    width: 100% !important;
+  }
+
+  #billing table tr td {
+    padding: 30px 0 30px 8px;
+    font-size: 14px;
+  }
+
+  #billing table th {
+    padding: 12px 0 14px 10px;
+    font-size: 12px;
+  }
+
+  #billing .update-button button {
+    font-size: 14px !important;
+    width: unset;
+  }
+
+  #billing .all-limits {
+    padding-top: 20px !important;
+    text-align: start !important;
+  }
+
+  #billing .billing-page .billings {
+    padding-right: 5vw !important;
+    padding-left: 5vw !important;
+  }
+
+  #billing .billing-page div.col-sm-12.pl-0 {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+  }
+
+  #billing
+    > div
+    > div
+    > div.col-sm-8.specifics.pl-0
+    > div:nth-child(1)
+    > div
+    > div
+    > p {
+    text-align: center;
+  }
+
+  #billing .update-button {
+    padding: 0 !important;
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  #billing .sub-box {
+    margin-bottom: 10px;
+  }
+
+  #billing .billing-page .first-table p {
+    padding: 0;
+  }
+
+  #billing .main-row {
+    padding: 18px 0;
+  }
+
+  .footer-anchors {
+    padding: 0;
+  }
+
+  .footer-anchors > div.col-sm-3:last-child {
+    display: none;
+  }
+
+  .footer-anchors > div.col-sm-3:first-child {
+    display: none;
+  }
+
+  .footer-anchors > div {
+    margin-top: 5px;
+  }
+  #purchased .inner-div {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  #purchased div.row.justify-content-center .col-sm-6 {
+    padding: 0;
+  }
+  #purchased .card {
+    padding: 50px 0;
+  }
+
+  #purchased .purchased-btn .browes {
+    font-size: 10px;
+    padding: 10px 26px;
+  }
+
+  #purchased .purchased-btn .job-post {
+    font-size: 10px;
+    padding: 10px 26px;
+    margin-left: 10px;
+  }
+
+  #purchased .card h1 {
+    font-size: 16px;
+  }
+  .pricing-cards {
+    padding-top: 10px !important;
+    display: grid;
+    grid-template-rows: repeat(4, auto);
+    grid-row-gap: 22px;
+    width: unset;
+  }
+  .pricing-cards .col-sm-3 {
+    width: calc(100vw - 60px);
+  }
+  #pricing .card.notloggin {
+    position: relative;
+    left: -30px;
+    width: 100vw;
+    margin: 0;
+    padding: 40px 3px;
+    top: 0px;
+  }
+  #pricing .card.notloggin .card-bot {
+    height: 450px;
+  }
+  #pricing .col-sm-3.pr-0 button {
+    margin-top: 10px;
+  }
+  #pricing .cards-row .col-sm-3 {
+    padding: 0 0px;
+  }
+  #pricing .card {
+    margin: 0;
+  }
+
+  #pricing .card-btn button {
+    min-width: 60%;
+    padding: 10px 9vw !important;
+    font-size: 15px;
+    font-family: Myriad Pro;
+    font-weight: 700;
+  }
+  #pricing .notloggin .card-btn button {
+    min-height: 50px;
+  }
+  #pricing .card-bot {
+    height: 340px;
+  }
+  .footer {
+    padding-top: 20px;
+  }
+
+  .registration .inner-div h2 {
+    font-size: 30px;
+  }
+  #pricing .inner-div {
+    padding: 30px !important;
+  }
+  .registration .mobile-pb-0 {
+    padding-bottom: 0 !important;
+  }
+  .registration .hire-work-buttons {
+    display: flex;
+    flex-direction: column;
+    height: 113px;
+    justify-content: space-evenly;
+  }
+
+  .sign-up-btn button {
+    padding: 12px 31px !important;
+  }
+  #contact .sign-up-btn {
+    padding-top: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  #contact .already-member.contact-us {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .registration .register-work-form .hire-work-buttons a {
+    font-size: 12px;
+  }
+
+  .registration .hire-work-buttons a {
+    font-size: 12px;
+  }
+  .registration .hire-work-buttons a.inactive,
+  .registration .hire-work-buttons a.active {
+    margin-left: 0;
+    font-size: 18px;
+  }
+  .already-member p {
+    font-size: 18px;
+  }
+  .voted-div-outer {
+    display: none;
+  }
+
+  .hire-want-section {
+    background-position: 63% 100%;
+    margin-bottom: calc(10vw - 116px);
+  }
+
+  .second-two .hire-work-buttons button {
+    padding: 19px 14px;
+    font-size: 4vw;
+  }
+
+  .second-two .largetext h2 {
+    font-size: 25px;
+  }
+
+  .oval-paragraph {
+    width: 80%;
+  }
+
+  .oval-paragraph p {
+    margin: 20px 0;
+  }
+
+  .footer-anchors > div p,
+  .footer-anchors > div a {
+    font-size: 18px;
+  }
+
+  .save-a-lot {
+    grid-template-rows: repeat(4, auto);
+    grid-template-columns: auto;
+  }
+  .save-a-lot .header h1 {
+    padding: 0;
+  }
+  .desktop-menu {
+    display: none !important;
+  }
+
+  .dropdown-toggle::after {
+    display: none !important;
+  }
+
+  .dropdown-toggle i {
+    font-size: 24px;
+  }
+
+  .second-two .hire-work-buttons button:nth-child(2) {
+    margin-left: 0;
+    margin-top: 5%;
+  }
+
+  .second-two .hire-work-buttons {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .black-circle-adj {
+    width: 100%;
+    display: grid;
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 50% 50%;
+  }
+
+  .black-back .oval {
+    width: 60px;
+    height: 60px;
+  }
+
+  .black-back-header {
+    padding: 95px 4px 45px !important;
+  }
+
+  .black-back {
+    padding: 45px 4px;
+  }
+
+  .trusted-company {
+    width: 120px;
+    height: 100%;
+    padding: 3% 4% 3% 4%;
+  }
+
+  .what-are-you-looking .top-text h2 {
+    font-size: 26px;
+  }
+
+  .what-are-you-looking .top-text p {
+    font-size: 14px;
+  }
+
+  .small-ovals {
+    width: 80px;
+    height: 80px;
+  }
+
+  .what-are-you-looking .single-oval p {
+    font-size: 16px;
+  }
+
+  .white-oval {
+    width: 90px;
+    height: 90px;
+    margin: 8px 10px;
+  }
+
+  .orange-oval {
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+  }
+
+  .footer {
+    background-position: center;
+    background-size: cover;
+  }
+
+  .footer .footer-mid {
+    padding: 40px 0;
+  }
+
+  .footer-bottom {
+    padding: 0 20px 40px 20px;
+  }
+
+  .footer-bottom .cont-center p {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .footer-icon {
+    width: 75%;
+  }
+
+  .black-back h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .mobile-menu .dropdown-menu {
+    display: block;
+
+    padding: 15px;
+  }
+
+  /*.second-two .largetext h2 {*/
+  /*font-size: 40px;*/
+  /*}*/
+  .quotes h2 {
+    text-align: center;
+  }
+
+  .ovals {
+    justify-content: flex-start;
+    padding: 0 25px;
+  }
+
+  .single-oval {
+    width: 50%;
+  }
+
+  .info-div {
+    padding: 10px;
+    height: 400px;
+  }
+
+  .info-div .img-div {
+    justify-content: center;
+  }
+
+  .info-div .img-div img {
+    width: 30%;
+  }
+
+  .info-div .content-div h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .info-div .content-div p {
+    text-align: center;
+  }
+
+  .info-div .btn-div {
+    justify-content: center;
+  }
+
+  .pricing .price-box h4 {
+    font-size: 9px;
+  }
+
+  .pricing .price-box p {
+    font-size: 8px;
+  }
+
+  .pricing .price-box span {
+    font-size: 8px;
+  }
+
+  .how-it-works .hire-work-buttons button {
+    font-size: 12px;
+    padding: 10px 12px;
+  }
+
+  .how-it-works .cont-div p {
+    font-size: 12px;
+  }
+
+  .register-form .inner-form {
+    width: 100%;
+  }
+
+  .sign-up-btn {
+    width: 100%;
+  }
+
+  .register-work-form .inner-form {
+    width: 100%;
+  }
+
+  .registration .register-work-form .hire-work-buttons button {
+    font-size: 13px;
+  }
+
+  .register-work-form .inner-pass-form {
+    width: 100%;
+  }
+
+  #contact .register-work-form .inner-pass-form {
+    height: unset;
+    width: 100%;
+    padding: 0 50px;
+  }
+
+  #payment .payment-images > div img {
+    padding: 20px;
+  }
+
+  .why-gohirenow .inner-div {
+    box-shadow: none;
+    padding: 7% 15px 0 0;
+  }
+
+  .black-ovals {
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+  }
+
+  .why-gohirenow .inner-div > .row > .col-6 {
+    padding: 0;
+  }
+
+  .why-gohirenow .inner-div > .row > .col-6 > .black-ovals > .oval-paragraph {
+    padding-top: 20px;
+  }
+
+  .why-gohirenow > .container {
+    padding: 0;
+    padding-top: 0 !important;
+  }
+
+  .how-it-works .works-content .sota:nth-child(even) h2 {
+    text-align: left;
+  }
+
+  .how-it-works .works-content .sota:nth-child(even) p {
+    text-align: left;
+  }
+
+  .how-it-works .cont-div {
+    padding: 20px 0;
+  }
+
+  #pricing .cards-row {
+    padding: 50px 0 0 0;
+  }
+
+  #pricing .pricing-bottom {
+    padding: 20px 0;
+  }
+  .mobile-sent-password {
+    width: 90% !important;
+    font-weight: unset;
+  }
+  .contact-form-fw {
+    margin: 0 -9vw -9vw -9vw;
+  }
+  .mobile-mb-0 {
+    margin-bottom: 0;
+  }
+  .mobile-hide {
+    visibility: hidden;
+    height: 0 !important;
+  }
+  #messages .container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  #messages .right-side-inner .message_head {
+    flex-direction: column;
+  }
+
+  #messages .col-sm-12 {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  #messages .right-side-footer {
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+
+  #messages .inner-div,
+  .dashboard .heading-row {
+    padding: 5% 0 2% 0 !important;
+  }
+
+  #messages .row-padd {
+    padding-bottom: 10px;
+  }
+
+  .inbox_chat {
+    display: flex;
+    flex-direction: column;
+    height: unset;
+  }
+
+  .paginations {
+    padding-right: 2vw;
+  }
+
+  .paginations li {
+    margin: 0 1.2vw;
+    font-size: 3vw;
+  }
+}
+
+@media (min-width: 480px) and (max-width: 574px) {
+  .responsive-check-margin-left {
+    margin-left: 0;
+  }
+  .pricing-cards {
+    padding-top: 10px !important;
+    display: grid;
+    grid-template-rows: repeat(4, auto);
+    grid-row-gap: 22px;
+    width: unset;
+  }
+  #pricing .card.notloggin {
+    position: relative;
+    left: 0 !important;
+    width: 100vw;
+    margin: 0;
+    padding: 40px 3px;
+    top: 0px;
+  }
+  #pricing .card.notloggin .card-bot {
+    height: 450px;
+  }
+  #pricing .col-sm-3.pr-0 button {
+    margin-top: 10px;
+  }
+  #pricing .cards-row .col-sm-3 {
+    padding: 0 0px;
+  }
+  #pricing .card {
+    margin: 0;
+  }
+
+  #pricing .card-btn button {
+    min-width: 60%;
+    padding: 15px 9vw !important;
+    font-size: 15px;
+    font-family: Myriad Pro;
+    font-weight: 700;
+  }
+  #pricing .notloggin .card-btn button {
+    min-height: 50px;
+  }
+  #pricing .card-bot {
+    height: 300px;
+  }
+  .responsive-of-100-gurantee {
+  }
+  .respsonsive-of-listing {
+    flex-direction: column;
+  }
+  .respsonsive-of-listing-new {
+    width: 100% !important;
+    max-width: 100%;
+  }
+  .hire-page-header-text {
+    font-size: 22px !important;
+    font-family: lato, sans-serif !important;
+    color: rgb(255, 255, 255) !important;
+    line-height: 1.2 !important;
+    font-weight: bold !important;
+    margin-bottom: 33px;
+  }
+  .hire-page-header-inner {
+    padding-bottom: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 219px;
+    max-width: 200px;
+  }
+
+  .hire-page-header-inner button {
+    padding: 9px 15px;
+    width: 100%;
+  }
+
+  .hirepage-container .hirepage-job {
+    flex: 100% !important;
+    width: 100% !important;
+    padding: 0 !important;
+    max-width: unset !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex {
+    height: unset !important;
+    padding: 1.5rem 5px !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex img {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex a.mt-2.mb-2.text-center {
+    font-size: 23px !important;
+  }
+
+  .new-home2 .hire-page-header-text {
+    font-size: 21px !important;
+    font-family: lato, sans-serif !important;
+    color: rgb(255, 255, 255) !important;
+    line-height: 1 !important;
+    font-weight: bold !important;
+    margin-bottom: 13px;
+  }
+
+  .hire-page-header-inner .largetext1 {
+    margin-bottom: 20px;
+  }
+  #root div.hire-want-section.new-home2 > .container {
+    padding-left: 10px !important;
+  }
+  .new-home2 {
+    background-position-x: -970px !important;
+    background-size: auto 100%;
+  }
+  .hire-page-header-inner {
+    padding-bottom: 20px;
+  }
+  .dashboard {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .dashboard .work-dash {
+    padding-left: 0;
+    margin-top: 0px !important;
+  }
+  #client-dash .work-dash .sub-box-1 {
+    margin-top: 0px;
+  }
+  .mobile-pt-0 {
+    padding-top: 0 !important;
+  }
+  #edit-profile .inner-div h1 {
+    font-size: 32px;
+  }
+  #edit-profile .inner-div button {
+    padding: 6px 5vw;
+    font-size: 14px;
+  }
+  #edit-profile .inner-div .work-profile {
+    height: 100%;
+  }
+  #company-profile .left-side-inner .member-details p {
+    font-size: 1rem;
+  }
+  #freelanceredi > div.row.options-row.freelancer-fields {
+    padding-left: 15px;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  #edit-profile .right-side select {
+    border: 1px solid rgb(225, 225, 225);
+    border-radius: 35px;
+    padding: 12px 25px;
+    width: 100%;
+    outline: none;
+  }
+  #freelanceredi > div.row.options-row.freelancer-fields > select:nth-child(1) {
+    width: 100%;
+  }
+  #edit-profile .inner-div .work-profile .web-line {
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-column-gap: 10vw;
+  }
+  .freelancer-profile table,
+  .freelancer-profile .right-side-top {
+    margin-left: 0 !important;
+  }
+
+  #edit-profile table {
+    width: 100%;
+  }
+
+  .freelancer-save-bottom-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .freelancer-edit-save-bottom {
+    color: white;
+    background-color: #ed7b18;
+    padding: 6px 40px;
+    border-radius: 35px;
+    font-weight: bold;
+  }
+
+  .freelancer-profile .inner-div,
+  #company-profile .top-div {
+    flex-direction: row;
+  }
+
+  .freelancer-profile .inner-div .work-profile {
+    width: unset !important;
+  }
+
+  .freelancer-profile .row-padd .pr-0 {
+    padding-right: 15px !important;
+  }
+
+  #edit-profile .right-side .added-portfolio {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 2vw;
+  }
+
+  .mobile-menu {
+    padding: 0 15px 0 10px;
+    display: flex !important;
+  }
+  .how-it-works .works-content .sota {
+    margin: 0;
+  }
+  .how-it-works .pic-div {
+    height: 170px;
+  }
+  #edit-profile table tbody td {
+    padding: 25px 12px;
+    font-size: 15px;
+  }
+  #edit-profile table thead th {
+    padding: 15px 12px;
+    font-size: 15px;
+  }
+
+  #menu {
+    top: 41px;
+  }
+  #edit-profile .right-side .right-side-top {
+    margin-top: 10px;
+    margin-left: 0 !important;
+  }
+  .edit-job .pl-0,
+  .edit-job .pr-0 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .edit-job .container {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+  }
+  #search .right-side {
+    margin-top: 20px;
+  }
+  #search .right-side .whole-div {
+    padding: 25px 30px;
+  }
+  #search .row .pr-0 {
+    padding-right: 15px !important;
+  }
+  #company-profile .top-div .button button {
+    font-size: 14px;
+    padding: 6px 22px;
+  }
+  #company-profile .right-side {
+    margin-top: 20px;
+  }
+  #company-profile .top-div h2 {
+    font-size: 32px;
+  }
+  #job-details-hire .container {
+    padding: 0 15px;
+  }
+
+  #job-application .top-div .second h3 {
+    font-size: 14px;
+  }
+
+  .modal-popup {
+    width: 80%;
+  }
+
+  #job-application .top-div p {
+    margin-bottom: 10px;
+    font-size: 12px;
+  }
+
+  #job-application .top-div {
+    padding: 15px 20px;
+  }
+
+  #job-details-hire .bottom .inner-inner {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+    grid-row-gap: 10px;
+  }
+  #job-details-hire .bottom .inner-inner .button {
+    grid-column: 1 / 3;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  #job-details-hire .bottom .inner .button button:last-child {
+    margin-top: 0;
+    margin-left: 20px;
+  }
+
+  #job-details-hire button {
+    margin-top: 0 !important;
+  }
+
+  #job-details-hire .bottom .inner-inner {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-auto-rows: auto;
+  }
+
+  #job-details-hire .bottom .inner-inner .image-div {
+    min-width: 80px;
+  }
+
+  #job-details-hire .bottom .inner-inner h4 {
+    font-size: 14px;
+  }
+
+  #job-details-hire .bottom .inner-inner p {
+    font-size: 14px;
+  }
+
+  #job-details-hire .bottom .inner .button button {
+    font-size: 12px;
+    padding: 6px 18px;
+  }
+
+  #job-details-hire .bottom .inner .button button:last-child {
+    padding: 6px 23px;
+  }
+
+  #job-details-hire .buttons {
+    margin-top: 30px;
+    width: unset !important;
+  }
+
+  #job-details-hire button {
+    margin-top: 30px;
+  }
+
+  #job-details-hire .job-details-head {
+    display: grid;
+    grid-template-rows: auto auto;
+  }
+
+  #job-details-hire .buttons {
+    width: 100% !important;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-column-gap: 5vw;
+    margin-top: 0;
+    height: unset;
+  }
+
+  #job-details-hire .buttons .button {
+    padding: 7px 6vw !important;
+  }
+
+  #job-details-hire .job-details-skills {
+    width: unset !important;
+  }
+
+  .post-job-containers {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  #client-dash.client-dasher {
+    padding-top: 15px !important;
+    padding-bottom: 10vw !important;
+  }
+
+  .post-a-job-mobile {
+    width: 120px;
+    margin-bottom: 15px;
+  }
+
+  #post-job .left-side > p {
+    font-size: 16.014px;
+  }
+
+  #post-job .extra-padd {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  #follow-work .content {
+    padding: 30px;
+  }
+
+  #follow-work .content h2 {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  #error .content > div {
+    padding: 0;
+  }
+
+  #error .content > div img {
+    width: 100%;
+  }
+
+  #error .content button {
+    padding: 6px 70px;
+  }
+
+  #client-dash .work-dash button {
+    margin-top: 20px;
+  }
+
+  #billing table th {
+    font-size: 12px;
+    padding: 12px 0 14px 10px;
+  }
+
+  #client-dash table tr td {
+    font-size: 10px;
+  }
+
+  #billing .heading-row {
+    padding: 50px 0 0 0;
+  }
+
+  #billing .billing-page .billings {
+    padding-right: 5vw !important;
+    padding-left: 5vw !important;
+    text-align: center;
+  }
+  #billing .billing-page div.col-sm-12.pl-0 {
+    padding-right: 5vw !important;
+    padding-left: 5vw !important;
+  }
+
+  #client-dash {
+    padding: 50px 0 100px !important;
+  }
+
+  #client-dash > div.col-md-8.pl-0,
+  #client-dash > div.col-md-8.pl-0 > div:nth-child(1) > div,
+  #client-dash #favoritesworker > div {
+    padding-right: 0;
+  }
+
+  #client-dash table tr td:first-child {
+    padding-left: 10px !important;
+  }
+
+  #client-dash table th {
+    width: 20% !important;
+    min-width: 20% !important;
+    max-width: 20% !important;
+  }
+
+  #client-dash #second-table th {
+    width: 25%;
+  }
+
+  #client-dash #second-table td {
+    width: 25% !important;
+    min-width: 25% !important;
+    max-width: 25% !important;
+  }
+
+  #post-job .button {
+    display: flex;
+    justify-content: center;
+  }
+
+  .form-error {
+    font-size: 9px;
+  }
+
+  #favorites-hire .right-side .whole-div {
+    height: unset;
+  }
+
+  #favorites-hire .top-text h2 {
+    padding-left: 15px;
+  }
+  #payment .payment-images > img {
+    height: 100%;
+    width: 10vw;
+    min-height: 100%;
+    min-width: 10vw;
+  }
+  #payment .register-work-form > div {
+    width: 100% !important;
+  }
+  .hire-want-section {
+    background-position: 63% 100%;
+    margin-bottom: calc(10vw - 100px);
+  }
+  #edit-profile .left-side-outer {
+    padding: 0;
+  }
+
+  #edit-profile .inner-div {
+    padding: 3rem 15px 2% 15px !important;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  #edit-profile .left-side-inner {
+    padding: 40px 35px;
+  }
+
+  #edit-profile .right-side-inner {
+    margin-top: 20px;
+  }
+
+  #edit-profile .row-padd {
+    /* padding-bottom: 100px; */
+    padding: 0 0 30px 0;
+  }
+
+  #edit-profile .right-side select {
+    font-size: 14px;
+    padding: 10px 10px;
+    margin-bottom: 15px;
+  }
+
+  #edit-profile .right-side .added-skills .skill {
+    margin-top: 10px;
+  }
+
+  #edit-profile .col-sm-12.pr-0.freelancer-fields {
+    padding-right: 0 !important;
+  }
+
+  #edit-profile .right-side .portfolio-file {
+    margin-top: 10px;
+  }
+  #edit-profile .freelancer-fields {
+    padding-right: 0 !important;
+  }
+  #edit-profile .freelancer-fields,
+  #freelanceredi .react-tags {
+    padding-left: 0 !important;
+  }
+
+  #edit-profile .freelancer-fields .col-sm-3 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+
+  #edit-profile .portfolio-wrapper {
+    justify-content: space-between;
+  }
+
+  #edit-profile .row-padd .pl-0 {
+    padding-left: 15px !important;
+  }
+
+  #edit-profile .row-padd .pr-0 {
+    padding-right: 15px !important;
+  }
+
+  .freelancer-save-bottom-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .freelancer-edit-save-bottom {
+    color: white;
+    background-color: #ed7b18;
+    padding: 6px 40px;
+    border-radius: 35px;
+    font-weight: bold;
+  }
+
+  #user-profile table {
+    margin: 40px 0;
+  }
+
+  #payment .register-work-form .inner-pass-form {
+    width: 100%;
+  }
+
+  #payment .payment-images {
+    padding: 0 10px 30px 10px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  #user-profile .left-side-outer {
+    padding: 0 80px 0 80px;
+  }
+
+  #user-profile .left-side-inner {
+    padding: 50px 50px;
+  }
+
+  #user-profile .inner-div h1 {
+    text-align: center;
+    padding-left: 0;
+  }
+
+  #user-profile .user-div h2 {
+    margin: 25px 0 0 0;
+  }
+
+  #account-setting .top-text {
+    padding: 5% 0 2% 0 !important;
+    text-align: center;
+  }
+
+  #account-setting .custom-padd {
+    padding: 0 20vw 80px 20vw;
+  }
+
+  #account-setting .custom-padd:nth-child(2) {
+    padding: 0 15vw 60px 15vw;
+  }
+
+  #billing table tr td {
+    padding: 30px 0px 30px 10px;
+  }
+
+  #billing .update-button {
+    padding: 0 !important;
+    margin: 20px 0;
+  }
+
+  #billing .billing-page .first-table p {
+    padding: 0;
+  }
+
+  #billing .update-button button {
+    font-size: 14px !important;
+    width: unset;
+  }
+
+  #billing .update-button {
+    margin: 30px 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  #billing .main-row {
+    padding: 18px 0;
+  }
+
+  .footer-anchors {
+    padding: 0;
+  }
+
+  .footer-anchors > div.col-sm-3:last-child {
+    display: none;
+  }
+
+  .footer-anchors > div.col-sm-3:first-child {
+    display: none;
+  }
+
+  .footer-anchors > div {
+    margin-top: 5px;
+  }
+
+  #purchased .card {
+    padding: 50px 40px;
+  }
+
+  #purchased .purchased-btn .browes {
+    font-size: 12.746px;
+    padding: 12px 38px;
+  }
+
+  #purchased .purchased-btn .job-post {
+    font-size: 12.746px;
+    padding: 12px 38px;
+  }
+
+  #purchased .card h1 {
+    font-size: 16px;
+  }
+  .voted-div-outer {
+    display: none;
+  }
+
+  .second-two .hire-work-buttons button {
+    font-size: 2.5vw;
+  }
+
+  .footer-mid {
+    padding: 40px 0;
+  }
+
+  .footer-anchors > div p,
+  .footer-anchors > div a {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+
+  .save-a-lot {
+    grid-template-rows: repeat(4, auto);
+    grid-template-columns: auto;
+  }
+  .save-a-lot .header h1 {
+    padding: 0;
+  }
+  .desktop-menu {
+    display: none !important;
+  }
+
+  .dropdown-toggle::after {
+    display: none !important;
+  }
+
+  .dropdown-toggle i {
+    font-size: 24px;
+  }
+
+  .second-two .hire-work-buttons button:nth-child(2) {
+    margin-left: 0;
+    margin-top: 5%;
+  }
+
+  .second-two .hire-work-buttons {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .black-circle-adj {
+    display: grid;
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 50% 50%;
+    width: 80%;
+  }
+
+  .black-back .oval {
+    width: 60px;
+    height: 60px;
+  }
+
+  .black-back {
+    padding: 45px 4px;
+  }
+
+  .black-back-header {
+    padding: 65px 4px 45px !important;
+  }
+
+  .what-are-you-looking .top-text h2 {
+    font-size: 26px;
+  }
+
+  .what-are-you-looking .top-text p {
+    font-size: 14px;
+  }
+
+  .small-ovals {
+    width: 80px;
+    height: 80px;
+  }
+
+  .what-are-you-looking .single-oval p {
+    font-size: 18px;
+  }
+
+  .black-ovals {
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+  }
+
+  .why-gohirenow .inner-div > .row > .col-6 > .black-ovals > .oval-paragraph {
+    padding-top: 20px;
+  }
+
+  .white-oval {
+    width: 90px;
+    height: 90px;
+    margin: 10px 20px;
+  }
+
+  .orange-oval {
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+  }
+
+  .footer {
+    background-position: center;
+    background-size: cover;
+  }
+
+  .footer-bottom .cont-center p {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .footer-icon {
+    width: 75%;
+  }
+
+  .black-back h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .mobile-menu .dropdown-menu {
+    display: block;
+
+    padding: 15px;
+  }
+
+  .second-two .largetext h2 {
+    font-size: 35px;
+  }
+
+  .quotes h2 {
+    text-align: center;
+  }
+
+  .ovals {
+    justify-content: flex-start;
+    padding: 0 25px;
+  }
+
+  .single-oval {
+    width: 50%;
+  }
+
+  .info-div {
+    padding: 10px;
+    height: 400px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .info-div .img-div {
+    justify-content: center;
+  }
+
+  .info-div .img-div img {
+    width: 30%;
+  }
+
+  .info-div .content-div h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .info-div .content-div p {
+    text-align: center;
+  }
+
+  .info-div .btn-div {
+    justify-content: center;
+  }
+
+  .pricing .price-box h4 {
+    font-size: 9px;
+  }
+
+  .pricing .price-box p {
+    font-size: 8px;
+  }
+
+  .pricing .price-box span {
+    font-size: 8px;
+  }
+
+  .how-it-works .hire-work-buttons button {
+    font-size: 12px;
+    padding: 10px 12px;
+  }
+
+  .how-it-works .cont-div p {
+    font-size: 12px;
+  }
+
+  .register-form .inner-form {
+    width: 66%;
+  }
+
+  .sign-up-btn {
+    width: 66%;
+  }
+
+  .register-work-form .inner-form {
+    width: 66%;
+  }
+
+  .footer {
+    padding-top: 20px;
+  }
+
+  .registration .mobile-pb-0 {
+    padding-bottom: 0 !important;
+  }
+
+  .registration .register-work-form .hire-work-buttons button {
+    font-size: 13px;
+  }
+
+  .register-work-form .inner-pass-form {
+    width: 66%;
+  }
+
+  #contact .register-work-form .inner-pass-form {
+    height: 390px;
+    width: 66%;
+  }
+
+  #payment .payment-images > div img {
+    padding: 20px;
+  }
+
+  .why-gohirenow .inner-div {
+    box-shadow: none;
+  }
+
+  .why-gohirenow > .container {
+    padding: 0;
+    padding-top: 0 !important;
+  }
+
+  .how-it-works .works-content .sota:nth-child(even) h2 {
+    text-align: left;
+  }
+
+  .how-it-works .works-content .sota:nth-child(even) p {
+    text-align: left;
+  }
+
+  .how-it-works .cont-div {
+    padding: 20px 0;
+  }
+
+  .mobile-sent-password {
+    width: 90% !important;
+    font-weight: unset;
+  }
+
+  .mobile-hide {
+    visibility: hidden;
+    height: 0 !important;
+  }
+
+  #messages .mobile-btn-group {
+    padding-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  #messages .messages_history .income_msgs {
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  #messages .messages_history .outgoing_msgs {
+    padding-right: 0;
+    margin-right: 0;
+  }
+  #messages .container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  #messages .col-sm-12 {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  #messages .inner-div,
+  .dashboard .heading-row {
+    padding: 5% 0 2% 0 !important;
+  }
+  .paginations {
+    padding-right: 2vw;
+  }
+
+  .paginations li {
+    margin: 0 1.2vw;
+    font-size: 3vw;
+  }
+}
+
+@media (min-width: 575px) and (max-width: 684px) {
+  .responsive-check-margin-left {
+    margin-left: 0;
+  }
+  #pricing .card-bot tr td {
+    font-size: 15px;
+  }
+  .pricing-cards {
+    padding-top: 10px !important;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 22px;
+
+    width: unset;
+  }
+  .price-card-mobile {
+    width: 100%;
+    max-width: unset !important;
+    flex: unset !important;
+  }
+  #pricing .card.notloggin {
+    position: relative;
+    left: 0 !important;
+    margin: 0;
+    justify-content: center;
+    padding: 30px 10px !important;
+    margin: 0;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 100px 380px min-content;
+    top: 0px;
+    width: unset !important;
+    height: 100% !important;
+  }
+  #pricing .col-sm-3.pr-0 button {
+    margin-top: 10px;
+  }
+  #pricing .cards-row .col-sm-3 {
+    padding: 0 0px;
+  }
+  #pricing .card {
+    justify-content: center;
+    padding: 30px 10px !important;
+    margin: 0;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 100px 360px min-content;
+  }
+  #pricing .card-btn {
+    padding-top: 0 !important;
+  }
+  #pricing .card-btn button {
+    min-width: 60%;
+    font-size: 15px;
+    font-family: Myriad Pro;
+    font-weight: 700;
+    padding: 10px 10px !important;
+  }
+  #pricing .card-bot {
+    height: 250px;
+  }
+  .respsonsive-of-listing {
+    flex-direction: column;
+  }
+  .respsonsive-of-listing-new {
+    width: 100% !important;
+    max-width: 100%;
+  }
+  .hire-page-header-text {
+    font-size: 22px !important;
+    font-family: lato, sans-serif !important;
+    color: rgb(255, 255, 255) !important;
+    line-height: 1.2 !important;
+    font-weight: bold !important;
+    margin-bottom: 33px;
+  }
+  .hirepage-container .hirepage-job {
+    flex: 100% !important;
+    width: 100% !important;
+    max-width: unset !important;
+    padding: 0 0 10px 0 !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex {
+    height: unset !important;
+    padding: 1.5rem 5px !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex img {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex a.mt-2.mb-2.text-center {
+    font-size: 23px !important;
+  }
+  .new-home2 .hire-page-header-inner {
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 219px;
+    max-width: 220px;
+  }
+  .hire-page-header-inner .largetext1 {
+    margin-bottom: 20px;
+  }
+  #root div.hire-want-section.new-home2 > .container {
+    padding-left: 10px !important;
+    margin-left: 10px !important;
+  }
+  .new-home2 {
+    background-position-x: -950px;
+    background-size: auto 100%;
+  }
+  .hire-page-header-inner {
+    padding-bottom: 20px;
+  }
+  .dashboard .work-dash {
+    padding-left: 0;
+  }
+
+  #edit-profile .inner-div h1 {
+    font-size: 35px;
+  }
+  .mobile-header {
+    justify-content: flex-end;
+  }
+  #edit-profile .inner-div button {
+    padding: 6px 5vw;
+    font-size: 14px;
+  }
+  #edit-profile table tbody td {
+    padding: 25px 12px;
+    font-size: 15px;
+  }
+  #edit-profile table thead th {
+    padding: 15px 12px;
+    font-size: 15px;
+  }
+  #edit-profile .right-side .right-side-top {
+    margin-top: 10px;
+    margin-left: 0 !important;
+    margin-right: 15px;
+  }
+  #edit-profile .freelancer-fields,
+  #freelanceredi .react-tags {
+    padding-right: 15px !important;
+    padding-left: 0 !important;
+  }
+
+  #freelanceredi > div.row.options-row.freelancer-fields {
+    display: grid;
+    padding-left: 15px;
+    padding-right: 15px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-row-gap: 20px;
+    grid-template-rows: repeat(2, 1fr);
+  }
+  #edit-profile .right-side select {
+    border: 1px solid rgb(225, 225, 225);
+    border-radius: 35px;
+    padding: 12px 25px;
+    width: 100%;
+    outline: none;
+  }
+  #freelanceredi > div.row.options-row.freelancer-fields > select:nth-child(1) {
+    width: 100%;
+  }
+  #edit-profile .freelancer-fields .col-sm-3 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+  #company-profile .left-side-inner .member-details p {
+    font-size: 1rem;
+  }
+  .freelancer-save-bottom-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .freelancer-edit-save-bottom {
+    color: white;
+    background-color: #ed7b18;
+    padding: 6px 40px;
+    border-radius: 35px;
+    font-weight: bold;
+  }
+  .edit-job .pl-0,
+  .edit-job .pr-0 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .edit-job .container {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+  }
+  #search .right-side {
+    margin-top: 20px;
+  }
+  #search .row .pr-0 {
+    padding-right: 15px !important;
+  }
+  #menu {
+    top: 42px;
+    left: calc(-35px + (290px - 50vw));
+  }
+  #company-profile .top-div .button button {
+    font-size: 14px;
+    padding: 6px 22px;
+  }
+  #company-profile .right-side {
+    margin-top: 20px;
+  }
+  #company-profile .top-div h2 {
+    font-size: 32px;
+  }
+
+  #account-setting .top-text {
+    padding: 5% 0 2% 0 !important;
+    text-align: center;
+  }
+
+  #account-setting .custom-padd {
+    padding: 0 20vw 80px 20vw;
+  }
+
+  #account-setting .custom-padd:nth-child(2) {
+    padding: 0 15vw 60px 15vw;
+  }
+  #job-application .top-div .second h3 {
+    font-size: 14px;
+  }
+
+  #job-application .top-div p {
+    margin-bottom: 10px;
+    font-size: 12px;
+  }
+  #messages .mobile-btn-group {
+    padding-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  #messages .messages_history .income_msgs {
+    padding-left: 10px;
+    margin-left: 0;
+  }
+
+  #messages .messages_history .outgoing_msgs {
+    padding-right: 10px;
+    margin-right: 0;
+  }
+
+  #job-application .top-div {
+    padding: 15px 20px;
+  }
+
+  #job-details-hire .bottom .inner-inner h4 {
+    /* font-size: 12px; */
+  }
+
+  #job-details-hire .bottom .inner-inner p {
+    font-size: 12px;
+  }
+
+  #job-details-hire .bottom .inner .button button {
+    font-size: 12px;
+    padding: 6px 18px;
+  }
+
+  #job-details-hire .bottom .inner .button button:last-child {
+    padding: 6px 23px;
+  }
+
+  #job-details-hire .buttons {
+    margin-top: 30px;
+    width: unset !important;
+  }
+
+  #job-details-hire .buttons {
+    width: 100% !important;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-column-gap: 5vw;
+  }
+
+  #follow-work .content {
+    padding: 30px;
+  }
+
+  #follow-work .content h2 {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  #error .content > div {
+    padding: 0;
+  }
+
+  #error .content > div img {
+    width: 100%;
+  }
+
+  #error .content button {
+    padding: 6px 90px;
+  }
+
+  #favorites-hire .right-side .whole-div {
+    height: unset;
+  }
+
+  #favorites-hire .top-text h2 {
+    padding-left: 15px;
+  }
+
+  #client-dash .work-dash button {
+    margin-top: 20px;
+  }
+
+  #client-dash > div.col-md-8.pl-0,
+  #client-dash > div.col-md-8.pl-0 > div:nth-child(1) > div,
+  #client-dash #favoritesworker > div {
+    padding-right: 0;
+  }
+
+  #client-dash table th {
+    width: 20% !important;
+    min-width: 20% !important;
+    max-width: 20% !important;
+  }
+
+  #client-dash #second-table th {
+    width: 25%;
+  }
+
+  #client-dash #second-table td {
+    width: 25% !important;
+    min-width: 25% !important;
+    max-width: 25% !important;
+  }
+
+  #billing .heading-row {
+    padding: 50px 0 0 0;
+  }
+
+  #client-dash {
+    padding: 50px 0 100px !important;
+  }
+
+  #client-dash.client-dasher {
+    padding-top: 15px !important;
+    padding-bottom: 10vw !important;
+  }
+
+  .post-a-job-mobile {
+    width: 120px;
+    margin-bottom: 15px;
+  }
+
+  #post-job .left-side > p {
+    font-size: 16.014px;
+  }
+
+  #post-job .extra-padd {
+    padding: 0 30px;
+  }
+
+  #post-job > div > div:nth-child(2) > div.col-md-4.pr-0.post-job-containers {
+    padding-left: 0;
+  }
+
+  #post-job .button {
+    display: flex;
+    justify-content: center;
+  }
+
+  .voted-div > div {
+    justify-content: unset;
+    align-items: unset;
+  }
+
+  .voted-div > div > p {
+    text-align: unset;
+    color: black;
+  }
+
+  .form-error {
+    font-size: 9px;
+  }
+
+  #payment .register-work-form > div {
+    width: 80%;
+  }
+
+  #payment .payment-images {
+    padding: 0 10px 30px 10px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  #payment .payment-images > img {
+    height: 100%;
+    width: 10vw;
+    min-height: 100%;
+    min-width: 10vw;
+  }
+
+  #edit-profile .left-side-outer {
+    padding: 0;
+  }
+
+  #edit-profile .inner-div {
+    padding-left: 0;
+  }
+
+  #edit-profile .left-side-inner {
+    padding: 40px 60px;
+  }
+
+  #edit-profile .right-side-inner {
+    margin-top: 20px;
+  }
+
+  #edit-profile .right-side select {
+    font-size: 14px;
+    padding: 10px 10px;
+  }
+
+  #edit-profile .right-side .added-skills .skill {
+    margin-top: 10px;
+  }
+
+  #edit-profile .right-side .portfolio-file {
+    margin-top: 10px;
+  }
+
+  .modal-popup {
+    width: 60%;
+  }
+
+  #user-profile table {
+    margin: 40px 0;
+  }
+
+  #user-profile .left-side-outer {
+    padding: 0 80px 0 80px;
+  }
+
+  #user-profile .left-side-inner {
+    padding: 50px 50px;
+  }
+
+  #user-profile .inner-div h1 {
+    text-align: center;
+    padding-left: 0;
+  }
+
+  #user-profile .user-div h2 {
+    margin: 25px 0 0 0;
+  }
+
+  #billing .billing-page .billings {
+    text-align: center;
+  }
+
+  #billing .update-button {
+    padding: 0 !important;
+    margin-top: 20px;
+    margin-bottom: 48px;
+  }
+
+  #billing .sub-box {
+    padding: 6px 6px;
+    font-size: 11px;
+  }
+
+  #billing table th {
+    padding: 12px 0 14px 8px;
+    font-size: 14px;
+  }
+
+  #billing table tr td {
+    padding: 20px 4px 20px 10px;
+    font-size: 12px;
+  }
+
+  #billing .update-button button {
+    font-size: 9px !important;
+    width: unset;
+  }
+
+  #billing .main-row {
+    padding: 18px 0;
+  }
+
+  #purchased .card {
+    padding: 30px 0;
+  }
+
+  #purchased .purchased-btn .browes {
+    font-size: 10.746px;
+    padding: 9px 22px;
+  }
+
+  #purchased .purchased-btn .job-post {
+    font-size: 10.746px;
+    padding: 9px 22px;
+  }
+
+  #purchased .card h1 {
+    font-size: 13px;
+  }
+
+  #pricing .card:hover {
+    padding: 49px 15px 49px 15px;
+  }
+
+  #pricing .card {
+    padding: 35px 14px;
+  }
+
+  #pricing .card-head h4 {
+    font-size: 9px;
+  }
+
+  #pricing .card-head h4 span {
+    font-size: 22px;
+  }
+
+  .job-post button {
+    font-size: 8.746px;
+    padding: 7px 15px;
+  }
+
+  .second-two .hire-work-buttons button {
+    font-size: 2vw;
+  }
+
+  .voted-div-outer {
+    padding: 0;
+  }
+
+  .voted-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: unset;
+    align-items: unset;
+    margin-left: 0;
+  }
+
+  .hire-want-section .container .row {
+    flex-direction: column;
+  }
+
+  .footer-anchors > div p,
+  .footer-anchors > div a {
+    font-size: 9px;
+  }
+
+  .save-a-lot {
+    grid-template-rows: repeat(4, auto);
+    grid-template-columns: auto;
+  }
+  .save-a-lot .header h1 {
+    padding: 0;
+  }
+  .desktop-menu {
+    display: none !important;
+  }
+
+  .mobile-menu {
+    display: flex !important;
+  }
+
+  .dropdown-toggle::after {
+    display: none !important;
+  }
+
+  .dropdown-toggle i {
+    font-size: 24px;
+  }
+
+  .second-two .hire-work-buttons button:nth-child(2) {
+    margin-left: 0;
+    margin-top: 5%;
+  }
+
+  .second-two .hire-work-buttons {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .black-circle-adj {
+    width: 100%;
+  }
+
+  .black-circle-adj > div {
+    padding: 30px 20px;
+  }
+
+  .black-back .oval {
+    width: 60px;
+    height: 60px;
+  }
+
+  .black-back {
+    padding: 45px 4px;
+  }
+
+  .what-are-you-looking .top-text h2 {
+    font-size: 26px;
+  }
+
+  .what-are-you-looking .top-text p {
+    font-size: 14px;
+  }
+
+  .small-ovals {
+    width: 80px;
+    height: 80px;
+  }
+
+  .what-are-you-looking .single-oval p {
+    font-size: 18px;
+  }
+
+  .black-ovals {
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+  }
+
+  .why-gohirenow .inner-div > .row > .col-6 > .black-ovals > .oval-paragraph {
+    padding-top: 20px;
+  }
+
+  .white-oval {
+    width: 90px;
+    height: 90px;
+    margin: 10px 20px;
+  }
+
+  .orange-oval {
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+  }
+
+  .footer {
+    background-size: cover;
+    padding-top: 30px;
+  }
+
+  .footer-bottom .cont-center p {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .footer-icon {
+    width: 75%;
+  }
+
+  .black-back h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .mobile-menu .dropdown-menu {
+    display: block;
+
+    padding: 15px;
+  }
+
+  .quotes h2 {
+    text-align: center;
+  }
+
+  .ovals {
+    justify-content: flex-start;
+    padding: 0 25px;
+  }
+
+  .single-oval {
+    width: 50%;
+  }
+
+  .info-div {
+    padding: 35px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .info-div .content-div {
+    margin: 35px 0;
+  }
+
+  .info-div .img-div {
+    justify-content: center;
+  }
+
+  .info-div .img-div img {
+    width: 75%;
+  }
+
+  .info-div .content-div h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .info-div .content-div p {
+    text-align: center;
+  }
+
+  .info-div .btn-div {
+    justify-content: center;
+  }
+
+  .pricing .price-box h4 {
+    font-size: 9px;
+  }
+
+  .pricing .price-box p {
+    font-size: 8px;
+  }
+
+  .pricing .price-box span {
+    font-size: 8px;
+  }
+
+  .how-it-works .hire-work-buttons button {
+    font-size: 12px;
+    padding: 10px 12px;
+  }
+
+  .how-it-works .cont-div p {
+    font-size: 12px;
+  }
+
+  .register-form .inner-form {
+    width: 66%;
+  }
+
+  .sign-up-btn {
+    width: 66%;
+  }
+
+  .register-work-form .inner-form {
+    width: 66%;
+  }
+
+  .registration .register-work-form .hire-work-buttons button {
+    font-size: 13px;
+  }
+
+  .register-work-form .inner-pass-form {
+    width: 66%;
+  }
+
+  #contact .register-work-form .inner-pass-form {
+    height: 390px;
+    width: 66%;
+  }
+
+  #payment .payment-images > div img {
+    padding: 20px;
+  }
+
+  .why-gohirenow .inner-div {
+    box-shadow: none;
+  }
+
+  .why-gohirenow > .container {
+    padding: 0;
+    padding-top: 0 !important;
+  }
+
+  .how-it-works .works-content .sota:nth-child(even) h2 {
+    text-align: left;
+  }
+
+  .how-it-works .works-content .sota:nth-child(even) p {
+    text-align: left;
+  }
+
+  .how-it-works .cont-div {
+    padding: 20px 0;
+  }
+
+  .how-it-works .works-content .sota {
+    margin: 0;
+  }
+
+  .how-it-works .pic-div {
+    height: 170px;
+  }
+
+  .mobile-sent-password {
+    width: 90% !important;
+    font-weight: unset;
+  }
+
+  .mobile-hide {
+    visibility: hidden;
+    height: 0 !important;
+  }
+}
+
+@media (min-width: 685px) and (max-width: 767px) {
+  .responsive-check-margin-left {
+    margin-left: 0;
+  }
+  #pricing .card-bot tr td {
+    font-size: 15px !important;
+  }
+  .pricing-cards {
+    padding-top: 10px !important;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 22px;
+
+    width: unset;
+  }
+  .price-card-mobile {
+    width: 100%;
+    flex: unset !important;
+    max-width: unset !important;
+  }
+  #pricing .card.notloggin {
+    position: relative;
+    left: 0 !important;
+    margin: 0;
+    justify-content: center;
+    padding: 30px 10px !important;
+    margin: 0;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 140px 380px min-content;
+    top: 0px;
+    width: unset !important;
+    height: 100% !important;
+  }
+  #pricing .col-sm-3.pr-0 button {
+    margin-top: 10px;
+  }
+  #pricing .cards-row .col-sm-3 {
+    padding: 0 0px;
+  }
+  #pricing .card {
+    justify-content: center;
+    padding: 30px 10px !important;
+    margin: 0;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 140px 360px min-content;
+  }
+  #pricing .card-btn {
+    padding-top: 0 !important;
+  }
+  #pricing .card-btn button {
+    min-width: 60%;
+    font-size: 15px;
+    font-family: Myriad Pro;
+    font-weight: 700;
+    padding: 10px 10px !important;
+  }
+  #pricing .card-bot {
+    height: 250px;
+  }
+  .respsonsive-of-listing {
+    flex-direction: column;
+  }
+  .respsonsive-of-listing-new {
+    width: 80% !important;
+    max-width: 80%;
+  }
+  .hire-page-header-text {
+    font-size: 22px !important;
+    font-family: lato, sans-serif !important;
+    color: rgb(255, 255, 255) !important;
+    line-height: 1.2 !important;
+    font-weight: bold !important;
+    margin-bottom: 33px;
+  }
+  .hirepage-container .hirepage-job {
+    flex: 100% !important;
+    width: 100% !important;
+    max-width: unset !important;
+    padding: 0 0 10px 0 !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex {
+    height: unset !important;
+    padding: 1.5rem 5px !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex img {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex a.mt-2.mb-2.text-center {
+    font-size: 23px !important;
+  }
+  .hire-page-header-inner {
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 219px;
+  }
+  .hire-page-header-inner .largetext1 {
+    margin-bottom: 20px;
+  }
+  #root div.hire-want-section.new-home2 > .container {
+    padding-left: 10px !important;
+    margin-left: 10px !important;
+  }
+  .new-home2 {
+    background-position-x: -880px;
+    background-size: auto 100%;
+  }
+  .hire-page-header-inner {
+    padding-bottom: 20px;
+  }
+  .dashboard .work-dash {
+    padding-left: 0;
+  }
+  #freelanceredi > div.row.options-row.freelancer-fields {
+    display: grid;
+    padding-left: 15px;
+    padding-right: 15px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    grid-template-rows: repeat(2, 1fr);
+  }
+  #edit-profile .right-side select {
+    border: 1px solid rgb(225, 225, 225);
+    border-radius: 35px;
+    padding: 12px 25px;
+    width: 100%;
+    outline: none;
+  }
+  #freelanceredi > div.row.options-row.freelancer-fields > select:nth-child(1) {
+    width: 100%;
+  }
+  #edit-profile .inner-div h1 {
+    font-size: 35px;
+  }
+  .mobile-header {
+    justify-content: center;
+  }
+  #edit-profile .inner-div button {
+    padding: 6px 5vw;
+    font-size: 14px;
+  }
+
+  #edit-profile .edit-profile-banner {
+    padding-top: 5vw;
+  }
+  #edit-profile table tbody td {
+    padding: 25px 12px;
+    font-size: 15px;
+  }
+  #edit-profile table thead th {
+    padding: 15px 12px;
+    font-size: 15px;
+  }
+  #edit-profile .right-side .right-side-top {
+    margin-top: 10px;
+    margin-left: 0 !important;
+    margin-right: 15px;
+  }
+  #edit-profile .freelancer-fields,
+  #freelanceredi .react-tags {
+    padding-right: 15px !important;
+    padding-left: 0 !important;
+  }
+
+  #edit-profile .freelancer-fields .col-sm-3 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+
+  .freelancer-save-bottom-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .freelancer-edit-save-bottom {
+    color: white;
+    background-color: #ed7b18;
+    padding: 6px 40px;
+    border-radius: 35px;
+    font-weight: bold;
+  }
+
+  .edit-job .pl-0,
+  .edit-job .pr-0 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .edit-job .container {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+  }
+
+  #menu {
+    top: 42px;
+    left: calc(-35px + (290px - 50vw));
+  }
+  #messages .mobile-btn-group {
+    padding-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  #messages .messages_history .income_msgs {
+    padding-left: 15px;
+    margin-left: 0;
+  }
+
+  #messages .messages_history .outgoing_msgs {
+    padding-right: 15px;
+    margin-right: 0;
+  }
+
+  #search .right-side {
+    margin-top: 20px;
+  }
+  #search .row .pr-0 {
+    padding-right: 15px !important;
+  }
+  #company-profile .top-div .button button {
+    border-radius: 33px;
+    background-color: #ed7b18;
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-weight: 800;
+    font-size: 14px;
+    padding: 6px 22px;
+    outline: none;
+  }
+  #company-profile .right-side {
+    margin-top: 20px;
+  }
+  #company-profile .top-div h2 {
+    font-size: 32px;
+  }
+  #account-setting .top-text {
+    padding: 5% 0 2% 0 !important;
+    text-align: center;
+  }
+
+  #account-setting .custom-padd {
+    padding: 0 15vw 80px 15vw;
+  }
+
+  #account-setting .custom-padd:nth-child(2) {
+    padding: 0 10vw 60px 10vw;
+  }
+  #job-application .top-div .second h3 {
+    font-size: 14px;
+  }
+
+  #job-application .top-div p {
+    margin-bottom: 10px;
+    font-size: 12px;
+  }
+
+  #job-application .top-div {
+    padding: 15px 20px;
+  }
+
+  #job-details-hire .bottom .inner-inner h4 {
+    /* font-size: 12px; */
+  }
+
+  #job-details-hire .bottom .inner-inner p {
+    font-size: 12px;
+  }
+
+  #job-details-hire .bottom .inner .button button {
+    font-size: 12px;
+    padding: 6px 18px;
+  }
+
+  #job-details-hire .bottom .inner .button button:last-child {
+    padding: 6px 23px;
+  }
+
+  #job-details-hire .buttons {
+    margin-top: 30px;
+    width: 50vw !important;
+  }
+  .post-job-containers {
+    padding-left: 0;
+    margin-right: 15px;
+  }
+  #follow-work .content {
+    padding: 30px;
+  }
+
+  #follow-work .content h2 {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  #error .content > div {
+    padding: 0;
+  }
+
+  #error .content > div img {
+    width: 100%;
+  }
+
+  #error .content button {
+    padding: 6px 90px;
+  }
+
+  #favorites-hire .right-side .whole-div {
+    height: unset;
+  }
+
+  #favorites-hire .top-text h2 {
+    padding-left: 15px;
+  }
+
+  #client-dash .work-dash button {
+    margin-top: 20px;
+  }
+
+  #billing .heading-row {
+    padding: 50px 0 0 0;
+  }
+
+  #billing .billing-page .billings {
+    text-align: center;
+  }
+
+  #billing .update-button {
+    padding: 0 !important;
+    margin: 20px;
+  }
+
+  #billing .update-button button {
+    width: unset;
+  }
+
+  #client-dash {
+    padding: 50px 0 100px !important;
+  }
+
+  #client-dash > div.col-md-8.pl-0,
+  #client-dash > div.col-md-8.pl-0 > div:nth-child(1) > div,
+  #client-dash #favoritesworker > div {
+    padding-right: 0;
+  }
+
+  #client-dash table th {
+    width: 20% !important;
+    min-width: 20% !important;
+    max-width: 20% !important;
+  }
+
+  #client-dash #second-table th {
+    width: 25%;
+  }
+
+  #client-dash #second-table td {
+    width: 25% !important;
+    min-width: 25% !important;
+    max-width: 25% !important;
+  }
+
+  #client-dash.client-dasher {
+    padding-top: 15px !important;
+    padding-bottom: 10vw !important;
+  }
+
+  .post-a-job-mobile {
+    width: 120px;
+    margin-bottom: 15px;
+  }
+
+  #post-job .left-side > p {
+    font-size: 16.014px;
+  }
+
+  #post-job .extra-padd {
+    padding: 0 30px;
+  }
+
+  #post-job .button {
+    display: flex;
+    justify-content: center;
+  }
+
+  .voted-div > div {
+    justify-content: unset;
+    align-items: unset;
+  }
+
+  .voted-div > div > p {
+    text-align: unset;
+    color: black;
+  }
+
+  .form-error {
+    font-size: 12px;
+  }
+
+  #payment .register-work-form > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+  }
+
+  #edit-profile .left-side-outer {
+    padding: 0;
+  }
+
+  #edit-profile .inner-div {
+    padding-left: 0;
+  }
+
+  #edit-profile .left-side-inner {
+    padding: 40px 60px;
+  }
+
+  #edit-profile .right-side-inner {
+    margin-top: 20px;
+  }
+
+  #edit-profile .right-side select {
+    font-size: 14px;
+    padding: 10px 10px;
+  }
+
+  #edit-profile .right-side .added-skills .skill {
+    margin-top: 10px;
+  }
+
+  #edit-profile .right-side .portfolio-file {
+    margin-top: 10px;
+  }
+
+  #user-profile table {
+    margin: 40px 0;
+  }
+
+  #user-profile .left-side-outer {
+    padding: 0 80px 0 80px;
+  }
+
+  #user-profile .left-side-inner {
+    padding: 50px 50px;
+  }
+
+  #user-profile .inner-div h1 {
+    text-align: center;
+    padding-left: 0;
+  }
+
+  #user-profile .user-div h2 {
+    margin: 25px 0 0 0;
+  }
+
+  #billing .update-button {
+    margin-bottom: 50px;
+  }
+
+  #billing .sub-box {
+    padding: 6px 8px;
+    font-size: 10px;
+  }
+
+  #billing .first-table p {
+    padding: 20px 20px;
+    font-size: 10px;
+  }
+
+  #billing table th {
+    padding: 12px 0 14px 6px;
+    font-size: 12px;
+  }
+
+  #billing table tr td {
+    padding: 20px 3px 20px 5px;
+    font-size: 12px;
+  }
+
+  #billing .update-button button {
+    font-size: 8px !important;
+  }
+
+  #billing .main-row {
+    padding: 18px 0;
+  }
+
+  #purchased .card {
+    padding: 30px 20px;
+  }
+
+  #purchased .purchased-btn .browes {
+    font-size: 10.746px;
+    padding: 9px 22px;
+  }
+
+  #purchased .purchased-btn .job-post {
+    font-size: 10.746px;
+    padding: 9px 22px;
+  }
+
+  #purchased .card h1 {
+    font-size: 13px;
+  }
+
+  .second-two .hire-work-buttons button {
+    font-size: 1.5vw;
+  }
+
+  .voted-div-outer {
+    padding: 0;
+  }
+
+  .voted-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: unset;
+    align-items: unset;
+    margin-left: 0;
+  }
+
+  .hire-want-section .container .row {
+    flex-direction: column;
+  }
+
+  .footer-mid {
+    padding: 34px 0 0 0;
+  }
+
+  .footer-anchors > div p,
+  .footer-anchors > div a {
+    margin-bottom: 0;
+    font-size: 9px;
+  }
+
+  .save-a-lot {
+    grid-template-rows: repeat(4, auto);
+    grid-template-columns: auto;
+  }
+  .save-a-lot .header h1 {
+    padding: 0;
+  }
+  .desktop-menu {
+    display: none !important;
+  }
+
+  .mobile-menu {
+    display: flex !important;
+  }
+
+  .dropdown-toggle::after {
+    display: none !important;
+  }
+
+  .dropdown-toggle i {
+    font-size: 24px;
+  }
+
+  .second-two .hire-work-buttons button:nth-child(2) {
+    margin-left: 0;
+    margin-top: 5%;
+  }
+
+  .second-two .hire-work-buttons {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .black-circle-adj {
+    width: 100%;
+  }
+  .black-circle-adj > div {
+    padding: 30px 20px;
+  }
+
+  .black-back .oval {
+    width: 60px;
+    height: 60px;
+  }
+
+  .black-back {
+    padding: 45px 4px;
+  }
+
+  .what-are-you-looking .top-text h2 {
+    font-size: 26px;
+  }
+
+  .what-are-you-looking .top-text p {
+    font-size: 14px;
+  }
+
+  .small-ovals {
+    width: 80px;
+    height: 80px;
+  }
+
+  .what-are-you-looking .single-oval p {
+    font-size: 18px;
+  }
+
+  .black-ovals {
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+  }
+
+  .why-gohirenow .inner-div > .row > .col-6 > .black-ovals > .oval-paragraph {
+    padding-top: 20px;
+  }
+
+  .white-oval {
+    width: 90px;
+    height: 90px;
+    margin: 10px 20px;
+  }
+
+  .orange-oval {
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+  }
+
+  .footer {
+    /* background-position: right; */
+    background-size: cover;
+    padding-top: 30px;
+  }
+
+  .footer-bottom .cont-center p {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .footer-icon {
+    width: 75%;
+  }
+
+  .black-back h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .mobile-menu .dropdown-menu {
+    display: block;
+
+    padding: 15px;
+  }
+
+  .quotes h2 {
+    text-align: center;
+  }
+
+  .ovals {
+    justify-content: flex-start;
+    padding: 0 25px;
+  }
+
+  .single-oval {
+    width: 50%;
+  }
+
+  .info-div {
+    padding: 35px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .info-div .img-div {
+    justify-content: center;
+  }
+
+  .info-div .img-div img {
+    width: 75%;
+  }
+
+  .info-div .content-div h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .info-div .content-div p {
+    text-align: center;
+  }
+
+  .info-div .btn-div {
+    justify-content: center;
+  }
+
+  .pricing .price-box h4 {
+    font-size: 9px;
+  }
+
+  .pricing .price-box p {
+    font-size: 8px;
+  }
+
+  .pricing .price-box span {
+    font-size: 8px;
+  }
+
+  .how-it-works .hire-work-buttons button {
+    font-size: 12px;
+    padding: 10px 12px;
+  }
+
+  .how-it-works .cont-div p {
+    font-size: 12px;
+  }
+
+  .register-form .inner-form {
+    width: 66%;
+  }
+
+  .sign-up-btn {
+    width: 66%;
+  }
+
+  .register-work-form .inner-form {
+    width: 66%;
+  }
+
+  .registration .register-work-form .hire-work-buttons button {
+    font-size: 13px;
+  }
+
+  .register-work-form .inner-pass-form {
+    width: 100%;
+  }
+
+  #contact .register-work-form .inner-pass-form {
+    height: 390px;
+    width: 100%;
+  }
+
+  #payment .payment-images > div img {
+    padding: 20px;
+  }
+
+  #payment .payment-images {
+    padding: 0 10px 30px 10px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  #payment .payment-images > img {
+    height: 100%;
+    width: 10vw;
+    min-height: 100%;
+    min-width: 10vw;
+  }
+
+  .why-gohirenow .inner-div {
+    box-shadow: none;
+  }
+
+  .why-gohirenow > .container {
+    padding: 0;
+    padding-top: 0 !important;
+  }
+
+  .how-it-works .works-content .sota:nth-child(even) h2 {
+    text-align: left;
+  }
+
+  .how-it-works .works-content .sota:nth-child(even) p {
+    text-align: left;
+  }
+
+  .how-it-works .cont-div {
+    padding: 20px 0;
+  }
+
+  #pricing .card-bot tr td {
+    font-size: 8px;
+  }
+
+  #pricing .card:hover {
+    padding: 49px 15px 49px 15px;
+  }
+
+  #pricing .card {
+    padding: 35px 14px;
+  }
+
+  #pricing .card-head h4 {
+    font-size: 9px;
+  }
+
+  #pricing .card-head h4 span {
+    font-size: 22px;
+  }
+
+  #pricing .card-head h1 {
+    font-size: 30px;
+  }
+
+  .job-post button {
+    font-size: 8.746px;
+    padding: 7px 15px;
+  }
+  .how-it-works .works-content .sota {
+    margin: 0;
+  }
+  .how-it-works .pic-div {
+    height: 170px;
+  }
+  .mobile-sent-password {
+    width: 90% !important;
+    font-weight: unset;
+  }
+  .mobile-hide {
+    visibility: hidden;
+    height: 0 !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .responsive-check-margin-left {
+    margin-left: 0;
+  }
+  #pricing .card-bot tr td {
+    font-size: 15px !important;
+  }
+  .pricing-cards {
+    padding-top: 10px !important;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 22px;
+
+    width: unset;
+  }
+  .price-card-mobile {
+    width: 100%;
+    flex: unset !important;
+    max-width: unset !important;
+  }
+  #pricing .card.notloggin {
+    position: relative;
+    left: 0 !important;
+    margin: 0;
+    justify-content: center;
+    padding: 30px 10px !important;
+    margin: 0;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 120px 400px min-content;
+    top: 0px;
+    width: unset !important;
+    height: 100% !important;
+  }
+  #pricing .col-sm-3.pr-0 button {
+    margin-top: 10px;
+  }
+  #pricing .cards-row .col-sm-3 {
+    padding: 0 0px;
+  }
+  #pricing .card {
+    justify-content: center;
+    padding: 30px 10px !important;
+    margin: 0;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 120px 380px min-content;
+  }
+  #pricing .card-btn {
+    padding-top: 0 !important;
+  }
+  #pricing .card-btn button {
+    min-width: 60%;
+    font-size: 15px;
+    font-family: Myriad Pro;
+    font-weight: 700;
+    padding: 10px 10px !important;
+  }
+  #pricing .card-bot {
+    height: 250px;
+  }
+  .respsonsive-of-listing {
+    flex-direction: column;
+  }
+  .respsonsive-of-listing-new {
+    width: 80% !important;
+    max-width: 80%;
+  }
+  .new-home2 .hire-page-header-text {
+    font-size: 28px !important;
+    font-family: lato, sans-serif !important;
+    color: rgb(255, 255, 255) !important;
+    line-height: 1.2 !important;
+    font-weight: bold !important;
+    margin-bottom: 33px;
+  }
+  .new-home2 .hire-page-header-inner {
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 219px;
+  }
+  .new-home2 .hire-page-header-inner .largetext1 {
+    margin-bottom: 20px;
+  }
+  .hire-want-section.new-home2 .container {
+    margin-left: 10px;
+  }
+  .new-home2 {
+    background-position-x: -800px;
+  }
+  .hire-page-header-inner {
+    padding-bottom: 20px;
+  }
+  .hirepage-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 10px;
+    grid-template-rows: 1fr 1fr;
+  }
+  .hirepage-container .hirepage-job {
+    width: 100% !important;
+    max-width: unset !important;
+    padding: 0 0 10px 0 !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex {
+    height: 100% !important;
+    padding: 1.5rem 5px !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex img {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex a.mt-2.mb-2.text-center {
+    font-size: 23px !important;
+  }
+  #edit-profile table tbody td {
+    padding: 25px 12px;
+    font-size: 15px;
+  }
+  #edit-profile table thead th {
+    padding: 15px 12px;
+    font-size: 15px;
+  }
+  #freelanceredi > div.row.options-row.freelancer-fields {
+    display: grid;
+    padding-left: 15px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+    grid-template-rows: repeat(2, 1fr);
+  }
+  #edit-profile .right-side select {
+    border: 1px solid rgb(225, 225, 225);
+    border-radius: 35px;
+    padding: 12px 25px;
+    width: 100%;
+    outline: none;
+  }
+  #freelanceredi > div.row.options-row.freelancer-fields > select:nth-child(1) {
+    width: 100%;
+  }
+  .navigationbar {
+    padding-right: 15px !important;
+  }
+  #search .left-side .para {
+    font-size: 12px;
+  }
+  #search .right-side .whole-div .first {
+    width: unset;
+  }
+  #search .left-side {
+    padding: 25px 20px;
+  }
+  #search .right-side .whole-div {
+    padding: 20px 20px;
+  }
+  #job-application .top-div {
+    padding: 25px 25px;
+  }
+
+  #job-application .top-div .first .img-div {
+    width: 80px;
+    height: 80px;
+  }
+
+  #job-details > div.row {
+    padding: 26px 5px;
+    margin: 0;
+  }
+
+  #job-details-hire .right-side button {
+    padding: 6px 20px;
+    font-size: 12px;
+  }
+
+  #job-details-hire .right-side table td:first-child {
+    font-size: 12px;
+  }
+
+  #job-details-hire .bottom .inner {
+    padding: 20px 20px;
+  }
+
+  #job-details-hire .bottom .inner-inner .image-div {
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+  }
+
+  #job-details-hire .bottom .inner-inner p {
+    font-size: 12px;
+  }
+
+  #job-details-hire .bottom .inner .button button:last-child {
+    padding: 6px 17px;
+  }
+
+  #job-details-hire .bottom .inner .button button {
+    font-size: 12px;
+    padding: 6px 12px;
+  }
+
+  #job-details-hire .bottom .inner-inner h4 {
+    /* font-size: 12px; */
+  }
+
+  #job-details .third-div .third-inner-div p {
+    font-size: 12px;
+  }
+
+  #job-details .third-div > div .attachments {
+    width: 50px;
+    height: 50px;
+  }
+
+  #job-details > div table td {
+    font-size: 12px;
+  }
+
+  #job-details > div.row > div p {
+    font-size: 12px;
+  }
+
+  #job-details .second-div > div p {
+    padding: 2px 14px;
+    margin: 10px 10px 0 0;
+  }
+
+  #job-details .heading {
+    margin-bottom: 20px;
+  }
+  #job-details-hire .buttons {
+    width: 40vw !important;
+  }
+  #job-details-hire .buttons button {
+    padding: 6px 15px;
+    font-size: 11px;
+  }
+
+  #job-details-work .work-table tbody td {
+    padding: 35px 10px;
+    font-size: 10px;
+  }
+
+  #job-details-work .work-table thead th {
+    padding: 10px 10px;
+    font-size: 12px;
+  }
+
+  #error .content > div {
+    padding: 0;
+  }
+
+  #error .content button {
+    padding: 6px 100px;
+  }
+
+  #client-dash .sub-box-1 .first-div p {
+    font-size: 10px;
+  }
+
+  #billing table th {
+    font-size: 12px;
+    padding: 12px 0 12px 12px;
+  }
+
+  #client-dash table tr td {
+    font-size: 10px;
+  }
+
+  #billing .heading-row {
+    padding: 50px 0 0 0;
+  }
+
+  #billing .billing-page .billings {
+    text-align: center;
+  }
+
+  #client-dash {
+    padding: 50px 0 100px !important;
+  }
+
+  #post-job .left-side > p {
+    font-size: 12px;
+  }
+
+  #account-setting .upload-div {
+    width: 100%;
+  }
+
+  #account-setting .upload-div p {
+    font-size: 10px;
+  }
+
+  #account-setting .upload-div img {
+    width: 4%;
+  }
+
+  .voted-div > div {
+    justify-content: unset;
+    align-items: unset;
+  }
+
+  .voted-div > div > p {
+    text-align: unset;
+  }
+
+  .second-two {
+    margin-bottom: 2%;
+  }
+
+  .form-error {
+    font-size: 12px;
+  }
+
+  #edit-profile .inner-div {
+    padding-left: 0;
+  }
+
+  #edit-profile .row-padd {
+    padding: 0;
+  }
+
+  #edit-profile .member-details p {
+    font-size: 14px;
+  }
+
+  #edit-profile .right-side select {
+    font-size: 14px;
+    padding: 8px 10px;
+  }
+
+  #edit-profile .left-side-outer {
+    padding: unset;
+  }
+
+  #user-profile .bottom-div {
+    padding: 65px 6px;
+  }
+
+  #user-profile .user-div {
+    padding: 0 0 25px 0;
+  }
+
+  #user-profile .inner-div h1 {
+    padding-left: 0;
+    font-size: 30.366px;
+  }
+
+  #user-profile table tr td {
+    padding: 10px 8px;
+    font-size: 14px;
+  }
+
+  #user-profile .left-side-outer {
+    padding: 0 10px 0 10px;
+  }
+
+  #user-profile .bottom-div > div p {
+    font-size: 14px;
+  }
+
+  #billing .update-button {
+    margin-top: 20px;
+    margin-bottom: 44px;
+    padding: 0 !important;
+  }
+
+  #billing .sub-box {
+    padding: 2px 0;
+  }
+
+  #billing table tr td {
+    padding: 30px 0px 30px 15px;
+  }
+
+  #billing .update-button button {
+    font-size: 12px !important;
+    width: unset;
+  }
+
+  #billing .main-row {
+    padding: 20px;
+  }
+
+  .search-div input {
+    padding: 0 5px;
+  }
+
+  .header span {
+    font-size: 10.746px;
+  }
+
+  #purchased .purchased-btn .browes {
+    font-size: 12.746px;
+    padding: 10px 30px;
+  }
+
+  #purchased .purchased-btn .job-post {
+    font-size: 12.746px;
+    padding: 10px 30px;
+  }
+
+  #pricing .card-head h4 {
+    font-size: 14px;
+  }
+
+  #pricing .card-head h4 span {
+    font-size: 22px;
+  }
+
+  #pricing .card-head h1 {
+    font-size: 30px;
+  }
+
+  .second-two .hire-work-buttons button {
+    font-size: 1.5vw;
+  }
+
+  .voted-div-outer {
+    padding: 0;
+  }
+
+  .voted-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: unset;
+    align-items: unset;
+    margin-left: 0;
+  }
+
+  .hire-want-section .container .row {
+    flex-direction: column;
+  }
+
+  .save-a-lot {
+    grid-template-rows: repeat(4, auto);
+    grid-template-columns: auto;
+  }
+  .save-a-lot .header h1 {
+    padding: 0;
+  }
+  .pricing .price-box h4 {
+    font-size: 15px;
+    min-height: 36px;
+  }
+
+  .orange-oval {
+    margin: 15px 8px;
+  }
+
+  .get-a-quote {
+    padding: 12px 42px !important;
+  }
+
+  .second-two .hire-work-buttons button:nth-child(2) {
+    margin-left: 3%;
+  }
+
+  .second-two .hire-work-buttons button {
+    padding: 15px 18px;
+  }
+
+  .register-work-form .inner-pass-form {
+    width: 48%;
+  }
+
+  .register-work-form .inner-form {
+    width: 48%;
+  }
+
+  .register-form .inner-form {
+    width: 48%;
+  }
+
+  .sign-up-btn button {
+    padding: 12px 67px !important;
+  }
+
+  .footer {
+    background-size: cover;
+    background-position: -260px 88px;
+    padding-top: 34px;
+  }
+
+  .info-div {
+    padding: 20px 0;
+  }
+
+  .footer-mid {
+    height: 200px;
+  }
+
+  .footer-anchors > div p,
+  .footer-anchors > div a {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+
+  #pricing .card-bot tr td {
+    font-size: 9px;
+  }
+
+  #pricing .card:hover {
+    padding: 49px 15px 49px 15px;
+  }
+
+  #pricing .card {
+    padding: 35px 14px;
+  }
+
+  .sign-up-btn {
+    width: 48%;
+  }
+
+  .black-circle-adj {
+    width: 100%;
+  }
+
+  .black-circle-adj > div {
+    padding: 30px 15px;
+  }
+
+  .mobile-sent-password {
+    width: 90% !important;
+    font-weight: unset;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1023px) {
+  .responsive-check-margin-left {
+    margin-left: 0;
+  }
+  #pricing .card-bot tr td {
+    font-size: 15px !important;
+  }
+  .pricing-cards {
+    padding-top: 10px !important;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 22px;
+
+    width: unset;
+  }
+  .price-card-mobile {
+    width: 100%;
+    flex: unset !important;
+    max-width: unset !important;
+  }
+  #pricing .card.notloggin {
+    position: relative;
+    left: 0 !important;
+    margin: 0;
+    justify-content: center;
+    padding: 30px 10px !important;
+    margin: 0;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 125px 380px min-content;
+    top: 0px;
+    width: unset !important;
+    height: 100% !important;
+  }
+  #pricing .col-sm-3.pr-0 button {
+    margin-top: 10px;
+  }
+  #pricing .cards-row .col-sm-3 {
+    padding: 0 0px;
+  }
+  #pricing .card {
+    justify-content: center;
+    padding: 30px 10px !important;
+    margin: 0;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 125px 360px min-content;
+  }
+  #pricing .card-btn {
+    padding-top: 0 !important;
+  }
+  #pricing .card-btn button {
+    min-width: 60%;
+    font-size: 15px;
+    font-family: Myriad Pro;
+    font-weight: 700;
+    padding: 10px 10px !important;
+  }
+  #pricing .card-bot {
+    height: 250px;
+  }
+  .hirepage-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 10px;
+    grid-template-rows: 1fr 1fr;
+  }
+  .hirepage-container .hirepage-job {
+    width: 100% !important;
+    max-width: unset !important;
+    padding: 0 0 10px 0 !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex {
+    height: 100% !important;
+    padding: 1.5rem 5px !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex img {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .hirepage-container .hirepage-job .d-flex a.mt-2.mb-2.text-center {
+    font-size: 23px !important;
+  }
+
+  .respsonsive-of-listing {
+    flex-direction: column;
+  }
+  .respsonsive-of-listing-new {
+    width: 80% !important;
+    max-width: 80%;
+  }
+  .hire-page-header-text {
+    font-size: 32px !important;
+    font-family: lato, sans-serif !important;
+    color: rgb(255, 255, 255) !important;
+    line-height: 1.2 !important;
+    font-weight: bold !important;
+    margin-bottom: 33px;
+  }
+  .hire-page-header-inner {
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 219px;
+  }
+  .hire-page-header-inner .largetext1 {
+    margin-bottom: 20px;
+  }
+  .new-home2 {
+    background-position-x: -600px;
+  }
+  #billing .sub-box {
+    padding: 14px 23px;
+  }
+
+  #billing table tr td {
+    padding: 30px 10px 30px 18px;
+  }
+
+  #billing .update-button {
+    padding: 0 !important;
+    margin: 20px;
+  }
+
+  #billing .update-button button {
+    font-size: 16px !important;
+    width: unset;
+  }
+
+  #billing .billing-page .billings {
+    text-align: center;
+  }
+
+  #pricing .card-head h1 {
+    font-size: 30px;
+  }
+
+  .info-div {
+    height: unset;
+    padding: 81px 0;
+  }
+
+  .save-a-lot .para p {
+    font-size: 16px;
+  }
+
+  .second-two .hire-work-buttons button:nth-child(2) {
+    margin-left: 3%;
+  }
+
+  .second-two .hire-work-buttons button {
+    padding: 15px 18px;
+  }
+
+  .register-work-form .inner-pass-form {
+    width: 30%;
+  }
+
+  .register-work-form .inner-form {
+    width: 30%;
+  }
+
+  .register-form .inner-form {
+    width: 30%;
+  }
+
+  .sign-up-btn button {
+    padding: 12px 67px !important;
+  }
+
+  .footer-mid {
+    height: 200px;
+  }
+
+  .footer-anchors > div p,
+  .footer-anchors > div a {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+
+  #pricing .card-bot tr td {
+    font-size: 10px;
+  }
+
+  #pricing .card {
+    padding: 35px 14px;
+  }
+
+  #edit-profile .member-details p {
+    font-size: 14px;
+  }
+
+  #edit-profile .right-side select {
+    padding: 8px 18px;
+    font-size: 14px;
+  }
+  .mobile-sent-password {
+    width: 90% !important;
+    font-weight: unset;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1199px) {
+  #pricing .card-head {
+    height: 150px;
+  }
+  .new-home2 {
+    background-position-x: -700px;
+  }
+  .hire-page-header-text {
+    font-size: 32px !important;
+    font-family: lato, sans-serif !important;
+    color: rgb(255, 255, 255) !important;
+    line-height: 1.2 !important;
+    font-weight: bold !important;
+    margin-bottom: 33px;
+  }
+  .hire-page-header-inner {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 219px;
+    max-width: 350px;
+  }
+  .hire-page-header-inner .largetext1 {
+    height: 200px;
+  }
+  #search .right-side .whole-div {
+    padding: 25px 30px;
+  }
+  #account-setting .upload-div p {
+    font-size: 12px;
+  }
+
+  .voted-div-outer {
+    padding: 30px 95px 30px 30px;
+  }
+
+  #billing .sub-box {
+    padding: 14px 22px;
+  }
+
+  #billing .update-button button {
+    font-size: 18px !important;
+  }
+
+  #billing table tr td {
+    padding: 30px 20px 30px 20px;
+  }
+
+  #purchased .purchased-btn .browes {
+    font-size: 15.746px;
+  }
+
+  #purchased .purchased-btn .job-post {
+    font-size: 15.746px;
+  }
+
+  .save-a-lot {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+  }
+
+  .save-a-lot .para p {
+    font-size: 16px;
+  }
+
+  .second-two .hire-work-buttons button:nth-child(2) {
+    margin-left: 3%;
+  }
+
+  .second-two .hire-work-buttons button {
+    padding: 15px 18px;
+  }
+
+  .register-work-form .inner-pass-form {
+    width: 36%;
+  }
+
+  .register-work-form .inner-form {
+    width: 36%;
+  }
+
+  .register-form .inner-form {
+    width: 36%;
+  }
+
+  .sign-up-btn button {
+    padding: 12px 67px !important;
+  }
+
+  .footer {
+    background-position: 100% 70px;
+    padding-top: 30px;
+  }
+
+  .info-div {
+    padding: 30px 0;
+  }
+
+  .footer-mid {
+    height: 200px;
+  }
+
+  .footer-anchors > div p,
+  .footer-anchors > div a {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+
+  #pricing .card-bot tr td {
+    font-size: 10px;
+  }
+
+  #pricing .card {
+    padding: 35px 14px;
+  }
+
+  .sign-up-btn {
+    width: 36%;
+  }
+
+  #edit-profile .member-details p {
+    font-size: 14px;
+  }
+
+  #edit-profile .right-side select {
+    padding: 8px 18px;
+    font-size: 14px;
+  }
+
+  #edit-profile .right-side .portfolio-input {
+    min-width: 38.5%;
+  }
+}
+
+@media (min-width: 50px) and (max-width: 768px) {
+  .respsonsive-of-listing {
+  }
+  .respsonsive-of-listing-new {
+  }
+  .empty-dashboard-table {
+    text-align: left;
+    font-size: 12px;
+    background: white;
+    min-height: 50px;
+    padding: 5px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family: "Lato";
+    border-bottom: 1px solid #e1e1e1;
+    height: 80px;
+  }
+  .empty-dashboard-table.selector-under {
+    margin-top: -10px;
+    border: 1px solid #e1e1e1;
+  }
+  .reset-password {
+    width: 130%;
+    margin-left: -15% !important;
+  }
+  #applicants .right-info {
+    display: grid;
+    grid-template-rows: repeat(3, auto);
+    grid-row-gap: 5px;
+  }
+  .table-respons-active-jobs {
+    margin-bottom: 10px;
+  }
+
+  .table-responsive-fullwidth-title {
+    padding-top: 15px !important;
+    padding-bottom: 0px !important;
+    text-align: start !important;
+  }
+  .table-respons-active-jobs tr td {
+    font-size: 14px !important;
+    padding: 0 5px 5px 0 !important;
+  }
+  table.table-respons-active-jobs > tbody > tr:first-child > td {
+    padding-top: 25px !important;
+  }
+  table.table-respons-active-jobs > tbody > tr:last-child > td {
+    padding-bottom: 25px !important;
+  }
+
+  .max-app-warning {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .max-app-warning .col-2:first-child,
+  .max-app-warning .imgsign {
+    width: 113px;
+    min-width: 113px;
+    padding: 0;
+  }
+
+  .max-app-warning .col-3 {
+    padding: 0;
+    display: flex;
+    max-width: unset;
+    justify-content: center;
+  }
+
+  .max-app-warning .text-new-desing {
+    max-width: 100%;
+    padding: 10px 20px;
+  }
+
+  .max-app-warning .text-new-desing p {
+    font-size: 1rem !important;
+  }
+
+  .client-favorites-container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 15px;
+    border-bottom: 1px solid #e1e1e1;
+    background-color: #fff;
+    margin-bottom: 40px;
+  }
+
+  .client-favorites-container.dashboard-favorites .skills {
+    padding: 0 0 0 50px !important;
+    text-align: start;
+  }
+
+  .client-favorites-container .first-child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .client-favorites-container .first-child .img-div {
+    width: 40px;
+    min-width: 40px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+
+  .client-favorites-container .first-child .img-div img {
+    width: 100%;
+    border-radius: 50%;
+    height: 100%;
+    max-height: 40px;
+    max-width: 40px;
+    min-width: 40px;
+    min-height: 40px;
+  }
+
+  .client-favorites-container .first-child .right {
+    padding-left: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    border: none !important;
+    background-color: white;
+    margin-top: 0 !important;
+  }
+
+  .client-favorites-container.dashboard-favorites .first-child .right {
+    padding-left: 15px;
+  }
+
+  .client-favorites-container .first-child .right .title {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    min-height: 40px;
+    font-weight: normal;
+  }
+
+  .client-favorites-container.dashboard-favorites .first-child .right .title {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    min-height: 40px;
+    font-weight: normal;
+  }
+
+  .client-favorites-container .first-child .right .pointer {
+    font-weight: bold;
+  }
+
+  .client-favorites-container h4,
+  .client-favorites-container p {
+    margin: 0 !important;
+    font-size: 15px !important;
+  }
+
+  .client-favorites-container .first-child .right .info {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    align-items: start;
+  }
+
+  .client-favorites-container.dashboard-favorites {
+    margin-bottom: 10px;
+  }
+
+  .client-favorites-container.dashboard-favorites .skills {
+    padding-top: 10px !important;
+    padding-left: 55px !important;
+    padding-right: 15px;
+  }
+
+  .client-favorites-container .skills {
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 15px;
+  }
+
+  .client-favorites-container.dashboard-favorites .skills p {
+    font-weight: normal !important;
+  }
+
+  .client-favorites-container .skills p {
+    color: #ed7b18 !important;
+  }
+
+  .client-favorites-container .log-info {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+    padding-bottom: 5px;
+  }
+
+  .client-favorites-container .icons {
+    padding-top: 10px;
+  }
+  .client-favorites-container .icons .pointer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .client-favorites-container .icons .pointer .fa-eye {
+    color: #00aff0;
+  }
+
+  .client-favorites-container.dashboard-favorites
+    .icons
+    .pointer
+    .fa.fa-pencil {
+    color: #ed7b18;
+    font-size: 20px;
+    padding-right: 25px;
+  }
+
+  .client-favorites-container.dashboard-favorites .icons .pointer .fa-eye {
+    font-size: 20px;
+  }
+
+  #second-table .client-favorites-container.dashboard-favorites span {
+    font-size: 16px !important;
+  }
+
+  .client-favorites-container .icons .pointer .fa-times-circle {
+    color: #ed7b18;
+    padding-left: 30px;
+    padding-right: 10px;
+  }
+
+  .client-favorites-container .icons,
+  .client-favorites-container .icons .pointer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .freelancers-favorites-head {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .whole-div-new-worker {
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 10px;
+  }
+
+  .whole-div-new-worker .first-div {
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+    align-items: center;
+    padding: 25px 15px 0 15px;
+  }
+
+  .whole-div-new-worker p.skills {
+    color: #ed7b18 !important;
+    font-size: 15px !important;
+  }
+
+  .whole-div-new-worker .first-div p {
+    font-size: 15px !important;
+    margin-bottom: 0 !important;
+    padding-left: 20px;
+  }
+
+  .whole-div-new-worker .first-div .img-div {
+    width: 40px;
+    min-width: 40px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+
+  .whole-div-new-worker .first-div .img-div img {
+    width: 100%;
+    border-radius: 50%;
+    height: 100%;
+    max-height: 40px;
+    max-width: 40px;
+    min-width: 40px;
+    min-height: 40px;
+  }
+
+  .whole-div-new-worker .second {
+    padding-left: 75px;
+  }
+
+  .whole-div-new-worker .second p {
+    text-align: start !important;
+    font-size: 15px !important;
+  }
+
+  .whole-div-new-worker .second h4 {
+    font-size: 15px !important;
+  }
+
+  .whole-div-new-worker .content-div {
+    display: flex;
+    flex-direction: column;
+  }
+  .active-job-posts-mobile-container {
+    padding: 15px 20px 15px 20px;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #e1e1e1;
+    background-color: #fff;
+    margin-bottom: 10px;
+  }
+
+  .a-j-p-avatitle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 5px;
+  }
+
+  .a-j-p-ava-container {
+    width: 40px;
+    min-width: 40px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+
+  .a-j-p-ava-container img {
+    width: 100%;
+    border-radius: 50%;
+    height: 100%;
+    max-height: 40px;
+    max-width: 40px;
+    min-width: 40px;
+    min-height: 40px;
+  }
+
+  .a-j-p-title {
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    font-weight: bold;
+  }
+
+  .a-j-p-details {
+    display: grid;
+    flex-direction: row;
+    align-items: start;
+    justify-content: space-between;
+    padding-left: 40px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .a-j-p-details-row {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .a-j-p-details-row-header {
+    color: #00aff0;
+    font-weight: 500;
+  }
+
+  .a-j-p-controls {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .a-j-p-controls .pointer .fa-eye {
+    font-size: 20px;
+    color: #00aff0;
+    padding-right: 5px;
+  }
+
+  .a-j-p-controls .pointer .fa.fa-pencil {
+    color: #ed7b18;
+    padding-right: 25px;
+    font-size: 20px;
+  }
+
+  #job-details-hire .align-items-center > div.col-2 {
+    max-width: 15vw !important;
+    max-height: 15vw !important;
+    min-width: 15vw !important;
+    min-height: 15vw !important;
+  }
+
+  .imgsign {
+    max-width: 15vw !important;
+    max-height: 15vw !important;
+    min-width: 15vw !important;
+    min-height: 15vw !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .imgsign1 {
+    max-width: 15vw;
+    max-height: 15vw;
+  }
+
+  .imgsign2 {
+    max-width: 10vw;
+    max-height: 10vw;
+    left: 2.5vw !important;
+    top: 2vw !important;
+  }
+  #job-details-hire #applicants .bottom-bot {
+    margin-bottom: 0 !important;
+  }
+}
+
+/*devices layouts*/
+@media (min-width: 20px) and (max-width: 1024px) {
+  .errors-edit-profile-mobile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 10px;
+  }
+  .hire-want-section > .container {
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+  }
+  .whole-div-new-worker {
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .whole-div-new-worker .info {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .whole-div-new-worker .img-div {
+    width: 40px;
+    min-width: 40px;
+    max-height: 40px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+  .whole-div-new-worker .img-div img {
+    width: 100%;
+    border-radius: 50%;
+    height: 100%;
+    max-height: 40px;
+    max-width: 40px;
+    min-width: 40px;
+    min-height: 40px;
+  }
+  .whole-div-new-worker .first-div {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-top: -5px;
+  }
+  .whole-div-new-worker .second-div {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin: 0;
+    align-items: flex-end;
+  }
+  .whole-div-new-worker .second-div p,
+  .whole-div-new-worker .second-div h4 {
+    font-size: 15px !important;
+  }
+  #job-application .top-div .first h4 {
+    width: unset;
+  }
+  #job-application .top-div .first .img-div img {
+    min-width: 65px;
+    min-height: 65px;
+  }
+  .welcome-to-ghn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #ed7b18;
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-column-gap: 20px;
+  }
+
+  .welcome-to-ghn-left {
+    padding: 30px 0 15px 40px;
+    display: grid;
+    grid-template-rows: auto 15px auto;
+    grid-template-columns: none;
+    grid-row-gap: 20px;
+    grid-column: 1/3;
+  }
+
+  .welcome-to-ghn-text {
+    color: #ffffff;
+    font-family: Lato;
+    padding-right: 20px;
+    font-size: 1rem;
+    font-weight: 400;
+    display: grid;
+    grid-auto-rows: auto;
+    grid-row-gap: 20px;
+  }
+
+  .welcome-to-ghn-text > div {
+    margin-right: -80px;
+  }
+
+  .welcome-to-ghn-text-title {
+    font-weight: 900;
+    line-height: 20px;
+  }
+
+  .welcome-to-ghn-buttons-title {
+    color: #ffffff;
+    font-family: "Myriad Pro";
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    grid-row: 1;
+    grid-column: 2;
+  }
+
+  div.welcome-to-ghn-buttons > img,
+  div.welcome-to-ghn-buttons > a {
+    grid-row: 2;
+  }
+
+  .welcome-to-ghn-line {
+    height: 1px;
+    margin-top: 10px;
+    background-color: #ffffff;
+    width: 100%;
+    grid-column: 1/4;
+    margin-left: 2vw;
+  }
+
+  .welcome-to-ghn-buttons {
+    justify-content: space-between;
+    display: grid;
+    grid-row-gap: 20px;
+    grid-template-rows: repeat(2, auto);
+    grid-template-columns: repeat(3, auto);
+    padding-bottom: 20px;
+    margin-right: -60px;
+  }
+
+  .welcome-to-ghn-corner-wrapper {
+    position: relative;
+    width: 44px;
+    overflow: hidden;
+    grid-column: 3;
+  }
+
+  .welcome-to-ghn-corner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 44px;
+    height: 46px;
+    background-color: #f8f8f8;
+    background-image: url("../assets/CornerWelcome.svg");
+    background-position: center;
+    background-size: 100% 100%;
+  }
+
+  .welcome-to-ghn-corner-fixer {
+    position: absolute;
+    left: -1px;
+    top: 0;
+    height: 100%;
+    width: 1px;
+    background-color: #ed7b18 !important;
+  }
+
+  .www-text {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #ed7b18;
+    font-family: "Raleway - Black";
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    /* Text style for "www" */
+    letter-spacing: -0.18px;
+  }
+  #job-details-work {
+    flex-direction: column;
+  }
+  .specifics {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-right: 0 !important;
+  }
+  #job-details-hire {
+    padding-top: 0;
+  }
+  .second-div {
+    margin-top: 20px;
+  }
+  #job-details-hire .header {
+    margin-top: 15px;
+  }
+  .work-table {
+    width: 100%;
+  }
+  #job-details-work .work-table thead th {
+    width: 25%;
+    min-width: 25%;
+  }
+  #job-details-work .work-table thead th:first-child {
+    width: 25%;
+    min-width: 25%;
+  }
+  .specifics2 {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  #job-details-hire .main-row {
+    padding-bottom: 10px !important;
+  }
+  #job-details > div.row > div {
+    padding-left: 20px;
+  }
+  #company-profile {
+    padding-bottom: 20px;
+  }
+  .why-gohirenow .inner-div {
+    padding-right: 0px !important;
+  }
+  .black-back h2 {
+    margin-bottom: 0 !important;
+    font-size: 36px !important;
+    font-family: lato;
+    font-weight: 800 !important;
+    color: #ed7b18 !important;
+  }
+
+  .why-virtual {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .why-virtual h1 {
+    font-size: 26px;
+    padding-bottom: 10px;
+  }
+
+  .why-virtual .col-6 {
+    display: grid !important;
+    grid-template-rows: 75px auto;
+    padding: 0 !important;
+    grid-row-gap: 20px;
+  }
+
+  .why-virtual .col-6 .svg-image {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+  }
+
+  .why-virtual .pl-4 {
+    padding: 10px 10px !important;
+  }
+
+  .images-new-home {
+    display: grid;
+    grid-template-rows: repeat(2, auto);
+    grid-template-columns: repeat(4, 1fr);
+    margin: 0 !important;
+  }
+
+  .images-new-home img {
+    display: grid;
+    grid-row: 2;
+    width: 35px !important;
+  }
+
+  .images-new-home img:first-child {
+    display: grid;
+    grid-row: 1;
+    grid-column: 1/5;
+    width: 100% !important;
+    height: 75px;
+  }
+
+  .users-new-home {
+    display: grid;
+    grid-template-rows: repeat(3, auto);
+  }
+
+  .users-new-home .col-4.mb-4 {
+    max-width: 100% !important;
+  }
+
+  .flags-new-home {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 10px;
+    grid-template-rows: repeat(2, 1fr);
+  }
+
+  .flags-new-home .col-2 {
+    display: flex !important;
+    justify-content: center;
+    max-width: unset !important;
+  }
+
+  .flags-new-home img {
+    width: 40px;
+    height: 40px;
+    border: none !important;
+  }
+
+  .flags-new-home p {
+    margin-top: 0 !important;
+  }
+
+  .row.extra-margin-imp.mobile-m-0 {
+    margin-bottom: 10px;
+  }
+
+  .extra-margin-imp .col-6 {
+    justify-content: space-between !important;
+  }
+
+  .row.extra-margin-imp {
+    margin-top: 20px !important;
+  }
+
+  .col-12.blue-banner.fun-fact {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  .recommend-new-home {
+    padding: 30px 0 30px 0 !important;
+    margin: 0 !important;
+  }
+
+  .candidates-new-home {
+    padding-bottom: 0 !important;
+    margin-bottom: 10px !important;
+  }
+
+  .post-job-btn-new-home {
+    padding-bottom: 0 !important;
+    margin: 0 !important;
+  }
+
+  .why-gohirenow-new-home {
+    background-image: none;
+  }
+
+  .round-icons-new-home img {
+    border-radius: unset !important;
+  }
+
+  .average-title-new-home {
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+  }
+  .fun-fact-row {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+  }
+  .fun-fact-row p {
+    background-color: #29aae3;
+    padding-top: 0 !important;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px !important;
+    margin-bottom: 0 !important;
+  }
+  .blue-banner.fun-fact {
+    width: 90vw;
+  }
+  .skills-advice {
+    margin-left: 0;
+    margin-right: 15px;
+    font-size: 14px;
+    margin-bottom: 5px !important;
+    margin-block-end: 0;
+  }
+
+  .input-required-tags > label {
+    position: absolute;
+    left: 11px;
+    top: 63%;
+    margin: -0.9em 0 0 0.4em;
+    font-weight: 500;
+    z-index: 500;
+  }
+  .title-posted-job-mobile {
+    text-align: center;
+    margin-bottom: 1rem !important;
+  }
+  .subtitle-posted-job-mobile {
+    font-size: 29px;
+    margin-bottom: 20px !important;
+    text-align: center;
+  }
+  .mobile-containers-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .mobile-containers-social {
+    width: 80% !important;
+    height: unset !important;
+    margin-right: 0 !important;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+  }
+  .mobile-poviders-block {
+    margin-top: 20px !important;
+  }
+
+  .mobile-reposting-buttons {
+    height: unset !important;
+    width: 80% !important;
+    margin-left: 0 !important;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+  }
+
+  .mobile-reposting-buttons .btn {
+    background-color: #ed7b18;
+    border-radius: 35px;
+    padding: 8px 50px;
+    font-size: 18px;
+    font-family: lato;
+    color: rgb(255, 255, 255);
+    line-height: 1.652;
+    text-align: center;
+    font-weight: bold;
+    max-width: 250px;
+  }
+
+  .job-aplliend .btn {
+    max-width: 300px;
+    padding: 8px 20px;
+  }
+  .swal2-title {
+    font-size: 12px;
+    display: unset !important;
+  }
+
+  .user-pic span h4 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 70vw;
+  }
+
+  .freelancer-profile .right-side-top > h4 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 70vw;
+  }
+  #search .whole-div-new div.content-name a h4,
+  #search .whole-div-new div.content-name p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 40vw;
+  }
+  #pricing .card-btn {
+    padding-top: 60px;
+  }
+  #pricing .card-btn.noPadtop {
+    padding-top: 0px;
+  }
+  .card.notloggin .card-btn {
+    padding-top: 40px !important;
+  }
+  #pricing .card {
+    padding-top: 25px;
+  }
+  .price-card-mobile {
+    justify-content: space-between;
+  }
+  .price-card-mobile .card {
+    justify-content: space-between;
+  }
+  #pricing .card-bot {
+    padding: 30px 0 0 0 !important;
+  }
+  #pricing .col-sm-3.pr-0:last-child button {
+    margin-top: 30px;
+  }
+  #pricing .price-card-mobile:first-child .card .card-head {
+    margin-bottom: -30px;
+  }
+  .wait-for-first-job-approval .buttons button {
+    padding: 10px 24px !important;
+  }
+
+  .wait-for-first-job-approval .buttons button:last-child {
+    border: none !important;
+    padding: 12px 24px !important;
+  }
+  .wait-for-first-job-approval .content {
+    margin: 0 15px;
+  }
+  .many-ovals-first-job {
+    margin-top: 4%;
+  }
+
+  .hirepage-container .w-100 {
+    width: unset !important;
+  }
+
+  .money-back {
+    margin-bottom: 0px !important;
+  }
+  .col-sm-9.pricing-bottom.responsive-of-100-gurantee {
+    padding: 25px 25px !important;
+  }
+  .responsive-of-100-gurantee h2,
+  .responsive-of-100-gurantee h4,
+  .responsive-of-100-gurantee p {
+    text-align: center !important;
+  }
+}
+
+/*iphone 5*/
+@media (min-width: 20px) and (max-width: 320px) {
+  #client-dash div.a-j-p-details > div:nth-child(1) > span {
+    padding-right: 10px;
+  }
+  #pricing .card.notloggin {
+    left: -9.5vw !important;
+  }
+  #hirepage .new-home2 .hire-page-header-inner .hire-work-buttons button {
+    padding: 9px 15px;
+  }
+  .mobile-reposting-buttons .btn {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+#pricing .card.notloggin {
+  transform: none;
+}
+@media (min-width: 1200px) {
+  #pricing .card.notloggin {
+    left: -15px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1199px) {
+  #pricing .container.pt-3 {
+    margin-left: 20px;
+    margin-right: 20px !important;
+    max-width: calc(100vw - 40px);
+  }
+  #pricing .card.notloggin {
+    left: 50%;
+    transform: translate(-50%, 0px);
+    height: 660px;
+  }
+}
